@@ -51,7 +51,7 @@ Standards:
         Path: /attendance/attendance.md
   -
     Title: Retros
-    Description: Retros
+    Description: Retrospectives
     UID: 6d98498e2324965fad0ea9d659d0cd60
     SuccessCriteria:
       - success criteria
