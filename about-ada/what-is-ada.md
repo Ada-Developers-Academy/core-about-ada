@@ -6,9 +6,9 @@ To give you all an introduction to Ada's Core Program, we'll cover:
 
 1. Ada's Mission and How We Work Towards It
 1. The Classroom Portion
-    - Content
-    - Support From Staff
-    - Support From Tools
+   - Content
+   - Support From Staff
+   - Support From Tools
 1. The Internship Portion
 1. Grace
 
@@ -37,10 +37,11 @@ For your knowledge, here are the following teams at Ada (Updated August 2020):
 1. Strategic Partnership Team (Team Money)
 
 The Education Team consists of:
+
 - Instructors (Core program and other programs)
-    - Instructional Content
-    - Academic Planning
-    - Student Support
+  - Instructional Content
+  - Academic Planning
+  - Student Support
 - Student Services
 - Curriculum Design
 
@@ -51,17 +52,17 @@ Our core program is directed towards the following learning goals. **You should 
 By the end of this program, we will be able to...
 
 1. Learn how to learn
-    - Create a model of independent self-learning study skills to facilitate learning new technologies
+   - Create a model of independent self-learning study skills to facilitate learning new technologies
 1. Write Code
-    - Implement features in high-level code for medium-sized systems
+   - Implement features in high-level code for medium-sized systems
 1. Debug Code
-    - Establish a model of debugging skills to facilitate debugging, reading, and understanding existing code in medium-sized systems
+   - Establish a model of debugging skills to facilitate debugging, reading, and understanding existing code in medium-sized systems
 1. Communicate about Code
-    - Apply coding and communication skills combined to team-based software development
+   - Apply coding and communication skills combined to team-based software development
 1. Career Preparation
-    - Combine their code skills and job-preparation workshops to prepare themselves for a successful internship in software development
+   - Combine their code skills and job-preparation workshops to prepare themselves for a successful internship in software development
 1. Build Communities rooted in Social Justice
-    - Integrate skills learned from social justice, advocacy, diversity, equity, and inclusivity to co-author a supportive learning community
+   - Integrate skills learned from social justice, advocacy, diversity, equity, and inclusivity to co-author a supportive learning community
 
 ### The Values of Ada Staff: SECRETS
 
@@ -101,7 +102,6 @@ Please refer to your Student Handbook for details on:
 
 - overall program schedule
 - days/weeks when class is not in session
-
 
 ## 📚 Scheduled Units 📚
 
@@ -193,6 +193,7 @@ After the classroom portion, you will spend 5 months with one of Ada's company p
 Details about what this means and how it happens will come later during the classroom portion.
 
 During the classroom portion, look forward to communication about:
+
 - Introduction to Internship
 - Company Engagement
 - Interview Preparation

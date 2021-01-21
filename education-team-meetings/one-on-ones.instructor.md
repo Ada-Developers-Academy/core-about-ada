@@ -2,12 +2,12 @@
 
 One of the responsibilities for instructors is to conduct one-on-one meetings with students.
 
-
 ## Logistics
 
 With a cohort size of 52 students with 5 classroom instructors, the traditional cadence is such: Each student should meet with one instructor once every two weeks. Therefore, instructors should conduct 5-6 one-on-ones each week.
 
-The current method that instructors use to schedule one-on-ones is to: 
+The current method that instructors use to schedule one-on-ones is to:
+
 - Create blocks of time setup for 20 minute appointments onto your personal Ada calendar.
 - To the extent possible, slots should reoccur 3 times, every other week (for example, a single student should meet with an instructor Tuesday at 2pm on Week 2, Week 4, and Week 6).
 - Email students with the link to your calendar to sign up for a slot.
@@ -21,7 +21,7 @@ Some thoughts:
 ### Key Guidelines
 
 - When emailing your students, **every email to students must include all email addresses by BCC.** Students have not consented to sharing their personal email addresses to each other, so it's crucial to preserve that privacy
-- Notes from each one-on-one meeting will be recorded in a specified Airtable. After each meeting, students should receive a indicator "On Radar", "On Target", "Trending Up", "Trending Down".  
+- Notes from each one-on-one meeting will be recorded in a specified Airtable. After each meeting, students should receive a indicator "On Radar", "On Target", "Trending Up", "Trending Down".
 - If a students is "On Radar" or "Trending Down", you should mention this at our daily stand-up so that we can talk how to best support this student.
 
 ## The Nature of One-on-Ones
@@ -58,7 +58,7 @@ Things that should definitely be asked consistently each one-on-one:
 - Ask how the project is going
 - Ask how the classroom is going
 - Ask about any capstone ideas (encourage students to think about capstone ideas so they aren't without ideas at the beginning of capstone, but to not worry about capstone logistics yet)
-   - Students may start thinking about capstone early in the cohort, but instructors do not need to bring this up until capstones are formally introduced.
+  - Students may start thinking about capstone early in the cohort, but instructors do not need to bring this up until capstones are formally introduced.
 - Ask how study skills are:
   - Do they need to up their vocabulary?
   - Do they need to practice their fundamental concepts?
@@ -81,9 +81,7 @@ This section of this document is for instructors to add guidelines about particu
 - If they have personal issues, see if there are changes that the student or instructor can apply to classroom environment, and/or recommend them to talk with Sarah (more)
 - If they need an accommodation (medical), ask them to talk with Sarah
 - If they are on the path to a Learning Plan, is this the time to bring it up?
-   - Some indicators that they are on a path to an LP include but are not limited to: turning in projects late or not at all, more than one red or yellow project, and student communicating that the work load is not sustainable. 
-
-
+  - Some indicators that they are on a path to an LP include but are not limited to: turning in projects late or not at all, more than one red or yellow project, and student communicating that the work load is not sustainable.
 
 #### Internships
 

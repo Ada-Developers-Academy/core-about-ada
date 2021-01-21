@@ -3,20 +3,24 @@
 ## 📹 Audio/Video Communication (aka Zoom) 📹
 
 1. **Have your video camera on** as much as possible
-    - This allows for attentive engagement, body language, and shared sense of belonging
+
+   - This allows for attentive engagement, body language, and shared sense of belonging
 
 1. Update your [Zoom profile settings](https://us02web.zoom.us/profile) so that **your name conforms to this template and includes your pronouns: `Name (pronouns)`**
-    - For example, Simon's Zoom name is `Simon (they/them)`, Becca's is `Becca (she/they)`, Devin's is `Devin (she/her)`, Chris's is `Chris (he/him)`
-    - Some other pronoun examples include `Ada (any pronouns)`, `Ada (ze/hir)`, `Ada (ask me)`, `Ada (use my name)`
+
+   - For example, Simon's Zoom name is `Simon (they/them)`, Becca's is `Becca (she/they)`, Devin's is `Devin (she/her)`, Chris's is `Chris (he/him)`
+   - Some other pronoun examples include `Ada (any pronouns)`, `Ada (ze/hir)`, `Ada (ask me)`, `Ada (use my name)`
 
 1. **Use the Chat feature** for on-topic conversation and questions
-    - This is our best way to hear your questions!
+
+   - This is our best way to hear your questions!
 
 1. **Keep yourself on mute until you're ready to speak**
-    - This eliminates audio feedback and distraction
+
+   - This eliminates audio feedback and distraction
 
 1. **Set your Zoom avatar to be an image that represents your appearance (so we can recognize you!)**
-    - Consider a photo of yourself or a cartoon avatar that resembles you.
+   - Consider a photo of yourself or a cartoon avatar that resembles you.
 
 ### Tips
 
@@ -24,7 +28,7 @@
 - You can enable remote access through Zoom-- a feature that will let someone else on the Zoom call control your computer temporarily. Sometimes we will do this at Ada!
 - Tools you can use to generate a cartoon avatar:
   - [Bitmoji](https://www.bitmoji.com/)
-  - [Picrew](https://picrew.me/)  (Site is in Japanese, but buttons are decently clear.)
+  - [Picrew](https://picrew.me/) (Site is in Japanese, but buttons are decently clear.)
 
 ### !callout-info
 
@@ -67,11 +71,13 @@ If you'd ever like to talk to Ada staff about these norms, _**all**_ Ada staff (
 1. **Make Slack effective and helpful to you** (see tips)
 
 1. Be responsive
-    - When possible, respond as soon as you can, or inform the other person that you will respond later
-    - Respond to the best of your ability. Often times, the best response is "I don't know," "I'm not sure," "I need one day to reply to you," or "I need help."
+
+   - When possible, respond as soon as you can, or inform the other person that you will respond later
+   - Respond to the best of your ability. Often times, the best response is "I don't know," "I'm not sure," "I need one day to reply to you," or "I need help."
 
 1. Trust others
-    - Trust others to respond when they can, as soon as they can, to the best of their ability
+
+   - Trust others to respond when they can, as soon as they can, to the best of their ability
 
 1. Have a bias towards sharing what you have to say, asking questions, and asking for help often and frequently vs. not sharing, not asking questions, or not asking for help.
 

@@ -1,16 +1,15 @@
 # Online Meeting Rooms
 
-For C14, Ada is using Zoom for online classes and meetings.  We maintain a set of permanent links to "classroom" zoom meetings.
+For C14, Ada is using Zoom for online classes and meetings. We maintain a set of permanent links to "classroom" zoom meetings.
 
 - [Auditorium](http://auditorium.adadev.org)
 - [Fire](http://fire.adadev.org)
 - [Water](http://water.adadev.org)
 - [Earth](http://earth.adadev.org)
 
-
 ## Recordings
 
-When the online meetings are recorded we have enabled the recordings to automatically import into Panopto, our video storage and streaming service.  
+When the online meetings are recorded we have enabled the recordings to automatically import into Panopto, our video storage and streaming service.
 
 You can find the recordings here:
 
@@ -21,4 +20,4 @@ You can find the recordings here:
 
 ## Instructor Private Rooms
 
-Instructors also have private zoom meeting links to their personal accounts they can share with students for 1-on-1s.  These rooms are not open except by appointment for private discussions.  
+Instructors also have private zoom meeting links to their personal accounts they can share with students for 1-on-1s. These rooms are not open except by appointment for private discussions.
