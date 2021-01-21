@@ -1,0 +1,77 @@
+---
+Standards:
+  -
+    Title: About Ada
+    Description: What Is Ada?
+    UID: b57d7cb1a47cec65f7cb7475f61a1403
+    SuccessCriteria:
+      - success criteria
+    ContentFiles:
+      -
+        Type: Lesson
+        UID: 76e49180e1f0d170cf99c6bd9b1d10f3
+        Path: /about-ada/what-is-ada.md
+  -
+    Title: Tools And Communication
+    Description: Online Communication Norms, Learn LMS, Slack, Google Calendar, Online Meeting Rooms
+    UID: 5d6c1dde08a6738142df07006c5b6978
+    SuccessCriteria:
+      - success criteria
+    ContentFiles:
+      -
+        Type: Lesson
+        UID: 8dd383a70f724d1eb720a9d077b80f66
+        Path: /tools-and-communication/online-communication-norms.md
+      -
+        Type: Lesson
+        UID: e7ab69c09d5d232c29c5ace2d44b0df0
+        Path: /tools-and-communication/learn-lms.md
+      -
+        Type: Lesson
+        UID: 9ed0d5add50e5db4877a7c331c1d934f
+        Path: /tools-and-communication/slack.md
+      -
+        Type: Lesson
+        UID: df7ba0d279745133c2f10d695a5c7e36
+        Path: /tools-and-communication/google-calendar.md
+      -
+        Type: Lesson
+        UID: b06e5bdbe9c40328c2780c1fb6fddaab
+        Path: /tools-and-communication/online-meeting-rooms.md
+  -
+    Title: Attendance
+    Description: Attendance
+    UID: 6d1460aaad85e8233c4f1a794530f94c
+    SuccessCriteria:
+      - success criteria
+    ContentFiles:
+      -
+        Type: Lesson
+        UID: f5a05f87d8c4a61108eb41d5f748ab0c
+        Path: /attendance/attendance.md
+  -
+    Title: Retros
+    Description: Retros
+    UID: 6d98498e2324965fad0ea9d659d0cd60
+    SuccessCriteria:
+      - success criteria
+    ContentFiles:
+      -
+        Type: Lesson
+        UID: 8c9462e4cddc583d16746512faf50dd2
+        Path: /retros/retrospectives.md
+  -
+    Title: Education Team Meetings
+    Description: One-on-Ones
+    UID: tkBCLL
+    SuccessCriteria:
+      - success criteria
+    ContentFiles:
+      -
+        Type: Instructor
+        UID: 762adda2ecf16192e1bb563ead0bed42
+        Path: /education-team-meetings/one-on-ones.instructor.md
+      -
+        Type: Lesson
+        UID: 4d940de22e5e08ee83e3d7ce66a3b303
+        Path: /education-team-meetings/one-on-ones.md
