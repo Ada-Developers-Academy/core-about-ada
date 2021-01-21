@@ -15,3 +15,22 @@ You can subscribe to a Google calendar, if you have a Google account, by clickin
 ![Add calendar Cohort 14](../assets/add-calendar.png)
 
 You can also sync the calendar with [Calendar on Mac](https://www.howtogeek.com/tips/how-to-add-your-gmail-calendar-to-the-calendar-on-mac-os-x/).
+
+<!-- Question Takeaway -->
+<!-- prettier-ignore-start -->
+### !challenge
+* type: paragraph
+* id: NtKPSf
+* title: Google Calendar
+##### !question
+
+What was your biggest takeaway from this lesson? Feel free to answer in 1-2 sentences, draw a picture and describe it, or write a poem, an analogy, or a story.
+
+##### !end-question
+##### !placeholder
+
+My biggest takeaway from this lesson is...
+
+##### !end-placeholder
+### !end-challenge
+<!-- prettier-ignore-end -->

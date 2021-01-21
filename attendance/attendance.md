@@ -62,3 +62,22 @@ We'll probably reply to you in case we're concerned you'll be missing a major le
 A lot of people have a lot of different circumstances that impact attendance.
 
 If you ever feel that you are falling behind or need extra attention, you are expected to keep instructors and/or the Program Manager, Student Services in the loop.
+
+<!-- Question Takeaway -->
+<!-- prettier-ignore-start -->
+### !challenge
+* type: paragraph
+* id: oD5VFd
+* title: Attendance
+##### !question
+
+What was your biggest takeaway from this lesson? Feel free to answer in 1-2 sentences, draw a picture and describe it, or write a poem, an analogy, or a story.
+
+##### !end-question
+##### !placeholder
+
+My biggest takeaway from this lesson is...
+
+##### !end-placeholder
+### !end-challenge
+<!-- prettier-ignore-end -->

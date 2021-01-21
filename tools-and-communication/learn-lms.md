@@ -70,3 +70,22 @@ We will discuss how to submit these programming projects soon.
 ## Checking on your progress
 
 You can see on each unit the percentage report from your checkpoint/exercise. At Ada we do not grade students based on the percentages, but it can give you a general idea about how you did on the assessment.
+
+<!-- Question Takeaway -->
+<!-- prettier-ignore-start -->
+### !challenge
+* type: paragraph
+* id: db40wK
+* title: Learn LMS
+##### !question
+
+What was your biggest takeaway from this lesson? Feel free to answer in 1-2 sentences, draw a picture and describe it, or write a poem, an analogy, or a story.
+
+##### !end-question
+##### !placeholder
+
+My biggest takeaway from this lesson is...
+
+##### !end-placeholder
+### !end-challenge
+<!-- prettier-ignore-end -->

@@ -225,3 +225,22 @@ As the Ada staff work towards making the best learning experience yet, we ask th
 We're in this together! Let's stay in this together, and make it good and great together, too.
 
 -- Education Team, August 2020
+
+<!-- Question Takeaway -->
+<!-- prettier-ignore-start -->
+### !challenge
+* type: paragraph
+* id: uT0521
+* title: "What is Ada?"
+##### !question
+
+What was your biggest takeaway from this lesson? Feel free to answer in 1-2 sentences, draw a picture and describe it, or write a poem, an analogy, or a story.
+
+##### !end-question
+##### !placeholder
+
+My biggest takeaway from this lesson is...
+
+##### !end-placeholder
+### !end-challenge
+<!-- prettier-ignore-end -->

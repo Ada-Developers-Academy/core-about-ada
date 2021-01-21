@@ -49,3 +49,22 @@ There will always be a facilitator during retro. At Ada, the facilitator will li
 1. Generate Insights -> lead discussion, suggest actionable items (if appropriate)
 1. Decide What to Do -> Is recognition enough? Is there an action item someone gets?
 1. Close the Retrospective -> Respect people's time
+
+<!-- Question Takeaway -->
+<!-- prettier-ignore-start -->
+### !challenge
+* type: paragraph
+* id: iKbATA
+* title: Retrospectives
+##### !question
+
+What was your biggest takeaway from this lesson? Feel free to answer in 1-2 sentences, draw a picture and describe it, or write a poem, an analogy, or a story.
+
+##### !end-question
+##### !placeholder
+
+My biggest takeaway from this lesson is...
+
+##### !end-placeholder
+### !end-challenge
+<!-- prettier-ignore-end -->

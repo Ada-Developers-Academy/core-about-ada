@@ -109,3 +109,22 @@ Here are some events that you will see frequently on your calendar:
 Often times we'll email out important information. Please check your email at least once a day.
 
 The staff email addresses are in the Student Handbook.
+
+<!-- Question Takeaway -->
+<!-- prettier-ignore-start -->
+### !challenge
+* type: paragraph
+* id: 1D4ftc
+* title: Online Communication Norms
+##### !question
+
+What was your biggest takeaway from this lesson? Feel free to answer in 1-2 sentences, draw a picture and describe it, or write a poem, an analogy, or a story.
+
+##### !end-question
+##### !placeholder
+
+My biggest takeaway from this lesson is...
+
+##### !end-placeholder
+### !end-challenge
+<!-- prettier-ignore-end -->
