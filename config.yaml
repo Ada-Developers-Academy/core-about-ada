@@ -2,7 +2,7 @@
 Standards:
   -
     Title: About Ada
-    Description: Welcome, Values, Student Handbook
+    Description: Welcome, Values, Student Handbook, Learning Goals, Work in Progress
     UID: 09cd05ea-edae-4422-86ed-8d1acae53ace
     SuccessCriteria:
       - success criteria
@@ -19,13 +19,6 @@ Standards:
         Type: Lesson
         UID: adc4bb31-dd82-453d-941f-63957cc7df3f
         Path: /about-ada/student-handbook.md
-  -
-    Title: Curriculum
-    Description: Learning Goals, Work in Progress
-    UID: c2238b04-5b68-40fa-b3ea-da15a3ef7306
-    SuccessCriteria:
-      - success criteria
-    ContentFiles:
       -
         Type: Lesson
         UID: 0484f058-52e5-4e86-96ce-a1df24fc326c
@@ -36,39 +29,51 @@ Standards:
         Path: /curriculum/work-in-progress.md
   -
     Title: Being An Adie
-    Description: Attendance, Roundtables, Assignments, One on Ones, Retros, A Day In The Life
+    Description: A Day In The Life, Homeroom, Attendance, Roundtables, Assignments, One on Ones, Retros, Pods, Student Services 1:1s, A Day In The Life
     UID: 1ad910fb-8e0f-495f-845b-e8c2d04bd8cb
     SuccessCriteria:
       - success criteria
     ContentFiles:
       -
         Type: Lesson
+        UID: 7728ea80-3d3a-4201-bce9-f57efadea027
+        Path: /being-an-adie/a-day-in-the-life.md
+      -
+        Type: Lesson
+        UID: d8002988-a0c3-44a9-9457-fa2a2d44af1f
+        Path: /being-an-adie/homeroom.md
+      -
+        Type: Lesson
         UID: dfdac13c-b9fe-485d-8f47-1cc201d1d8e9
         Path: /being-an-adie/attendance.md
       -
         Type: Lesson
-        UID: d8002988-a0c3-44a9-9457-fa2a2d44af1f
+        UID: 660f9223-c3ed-4e7f-ad30-ce64d0fb3d91
         Path: /being-an-adie/roundtables.md
       -
         Type: Lesson
         UID: 04374b1a-23de-4412-9a33-d4c2af127b23
         Path: /being-an-adie/assignments.md
+       -
+        Type: Instructor
+        UID: caea6a72-4b24-4c30-b835-8c30d5eb8a9a
+        Path: /being-an-adie/one-on-ones.instructor.md
       -
         Type: Lesson
         UID: 0c938e3d-f824-4398-83be-0b95305dc3b3
         Path: /being-an-adie/one-on-ones.md
-      -
-        Type: Instructor
-        UID: caea6a72-4b24-4c30-b835-8c30d5eb8a9a
-        Path: /being-an-adie/one-on-ones.instructor.md
       -
         Type: Lesson
         UID: 2fafc181-be7c-4ebd-9aa4-07dce0af70fa
         Path: /being-an-adie/retros.md
       -
         Type: Lesson
-        UID: 7728ea80-3d3a-4201-bce9-f57efadea027
-        Path: /being-an-adie/a-day-in-the-life.md
+        UID: 76149df0-d79e-422c-908c-fb5f4a4673f6
+        Path: /being-an-adie/pods.md
+      -
+        Type: Lesson
+        UID: f8ed1ed6-be0e-414e-acb9-a82da19521e7
+        Path: /being-an-adie/student-services-one-on-one.md
   -
     Title: Tools
     Description: Learn LMS, Slack, Google Calendar
@@ -82,11 +87,11 @@ Standards:
         Path: /tools/learn-lms.md
       -
         Type: Lesson
-        UID: e1c71200-b4de-4039-b5a8-1b7f14616c79
+        UID: f14faa8a-3d1a-41b1-aa09-1ba5e9eb3541
         Path: /tools/slack.md
       -
         Type: Lesson
-        UID: e1c71200-b4de-4039-b5a8-1b7f14616c79
+        UID: d10a2d81-89b4-44f3-8adb-be4d8456689f
         Path: /tools/google-calendar.md
   -
     Title: Video Communication
