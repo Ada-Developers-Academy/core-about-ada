@@ -1,6 +1,8 @@
 # Online Meeting Rooms
 
-For C14, Ada is using Zoom for online classes and meetings. We maintain a set of permanent links to "classroom" zoom meetings.
+__TODO: UPDATE__
+
+For C15, Ada is using Zoom for online classes and meetings. We maintain a set of permanent links to "classroom" zoom meetings.
 
 - [Auditorium](http://auditorium.adadev.org)
 - [Rock](http://rock.adadev.org)

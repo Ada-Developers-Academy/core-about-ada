@@ -1,17 +1,20 @@
 # Intro to Learn
 
-[Learn](http://learn-2.galvanize.com/) is a Learning Management tool, developed by [Galvanize](https://www.galvanize.com/) designed specifically for the needs of bootcamp students. Ada is excited to be using this tool for the first time in C14.
+__TODO: REWORK__
+
+[Learn](http://learn-2.galvanize.com/) is a Learning Management tool, developed by [Galvanize](https://www.galvanize.com/) designed specifically for the needs of bootcamp students. Ada is excited to be using this tool for C15.
 
 <iframe src="https://adaacademy.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=1659fe90-a80e-457c-a081-ac18004c9f13&autoplay=false&offerviewer=true&showtitle=true&showbrand=false&start=0&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
 
 ## What's in Learn?
+__TODO: this needs to be updated__
+In Learn you will find Ada's curriculum, written by instructors at Ada.
 
-In Learn you will find Ada's curriculum, written by instructors at Ada (current and past).
 
 You will also find assessments we have created to help identify areas of mastery and concepts we need to reinforce. The assessments include multiple-choice, short-answer and long-answer questions as well as programming exercises. You have already experienced these lessons and assessments in the Pre-Ada Material.
 
 ## Grades
-
+__TODO: are we still using this??__
 Learn does track percentage scores. We cannot turn that off, but we will not use overall percentage scores to assess students.
 
 At Ada we assess students primarily through programming projects and exercises known as Problem Sets. In most cases, the scale will be as such:
@@ -28,7 +31,8 @@ At Ada we assess students primarily through programming projects and exercises k
 In general, you may resubmit work as many times as you like, however Ada moves at a fairly rapid pace and you are encouraged after submitting an assignment and getting feedback, to absorb the feedback and apply that learning on new projects, unless otherwise directed.
 
 ## Organization
-
+__TODO: Units - Topics - Lessons & Problem Sets__
+__TODO: Are we using assessments??__
 Learn is organized into **Sections**. Each section is a major area of study at Ada. The Pre-Ada Material was such a area.
 
 ![Learn Section Example](../assets/section.png)
