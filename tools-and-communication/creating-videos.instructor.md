@@ -29,7 +29,7 @@ At Ada we have a few tools available for making video lessons:
   - Come back to them at the end and connect them to the topics discussed (great review)
 - **Keep it short!**
   - The ideal video should be ~10 minutes.  Try never to go more than ~20 as that becomes a real slog for students.  It's also harder for them to focus in on a difficult concept if they have to hunt through the video to find things.
-  - You can break up a long lesson into short videos and use a playlist to put-em together.
+  - You can break up a long lesson into short videos and use a playlist to put 'em together.
 - **When you remember add captions**
   - Panopto can do automatic captions, but you have to go into the video in the site and "import automatic captions".
 ![Automatic Captions](../assets/automatic-captions.png)
