@@ -11,7 +11,7 @@ At Ada we have a few tools available for making video lessons:
   * It also provides a [screencasting tool](https://adaacademy.hosted.panopto.com/Panopto/Cache/10.3.1.00010/Software/Panopto%20Recorder.pkg?arch=None&useCustomBinary=True) which can record the screen and webcam and automatically upload to panopto.  The tool is very _simple and basic_, but it does work and is easy to use.
   * Panopto also allows us to string videos together into playlists.  This lets us make short vidoes covering specific topics in longer lessons.
 * **[Zoom](https://zoom.us)** - Zoom is our video conferencing software and it provides a way to record meetings which works pretty well.  
-  * You can record any meeting and download it to your computer and then upload the results to Zoom.  This is an outstanding way to do a _dual instructor lesson_.
+  * You can record any meeting and download it to your computer and then upload the results to Panopto.  This is an outstanding way to do a _dual instructor lesson_.
 
 
 ## In General
