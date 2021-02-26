@@ -69,6 +69,7 @@ These are questions I have about best-practices that we'll have to answer over t
   - I (Chris) am unconvinced that the thumbnail of our lovely faces is helpful for learning.  Personally I think it distracts from the code we want them to follow and concepts we want students to learn.  That said, it helps students maintain a human connection to their instructors and several students (C13) have asked to keep them.
 - Do we need more production value (intro screens, editing etc)?
   -  Would higher production values give us any "bang for our buck?"  Currently I (Chris) do not think so.  Especially as we're not selling the videos, it's probably not worthwhile.
+  -  I (Chris) do have a license for Camtasia and it adds a 5 sec intro animation, which probably doesn't distract from learning, and it looks nice.
 - Should we invest in alternative software?
   - If Panopto shifts to a different liscense or goes under, Youtube or other streaming services could be used.  We should look into a backup storage service.  I (Chris) am storing mine on a used NAS I bought for myself as a backup.
   - [Camtasia](https://www.techsmith.com/camtasia-upgrade.html) is a good and widely used software package to do screencasting in education.  It is pretty easy to add some production value to a video and add neat effects. 
