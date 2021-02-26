@@ -65,9 +65,9 @@ To help adding video lessons the flow goes like this:
 
 ## Suggested Panopto Organization
 
-Organize a folder based on the repository the lessons are for (Core Unit 1 for example).  Inside that folder create a folder for each unit (square in learn) and the videos for that unit and their playlists go into it.  This makes it a bit easier to move things around in Panopto and it mirrors the Learn organization for newcomers.
+Organize a folder based on the repository the lessons are for (Core Unit 1 for example).  Inside that folder create a folder for each Topic (square in learn) and the videos for that Topic and their playlists go into it.  Each resource (markdown file) should have its own playlist. (If there's only one video for a resource, no need to make a playlist. You can just embed the single video.) This makes it a bit easier to move things around in Panopto and it mirrors the Learn organization for newcomers.
 
-It would likely be a good idea to create a folder outside of a cohort to semi-permanently host the videos.  Currently we are using the C16 folder in Panopto.  Luckily folders and files are easy to move or copy in Panopto.
+It would likely be a good idea to create a folder outside of a cohort to semi-permanently host the videos.  Currently we are using the CXX (eg. C15) folder in Panopto.  Luckily folders and files are easy to move or copy in Panopto.
 
 ## Questions To Answer Over Time
 
