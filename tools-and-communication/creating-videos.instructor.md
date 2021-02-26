@@ -41,6 +41,9 @@ At Ada we have a few tools available for making video lessons:
 - **Give practice**
   - Mistakes above can serve this purpose, but you can give students a question or problem and ask them to pause the video and figure it out, and then work through how you resolve things.
   - You can also use the Learn Challenges in the curriculum.
+- **Be Aware of where the thumbnail will be**
+  - Both Panopto and Zoom put thumbnails of the speaker in a fixed location in the video.  *Don't put code where it will be covered up!*
+  - Camtasia does allow you to shift the location of the thumbnail in editing.
 
 ## Workflow
 
