@@ -10,6 +10,7 @@ At Ada we have a few tools available for making video lessons:
   * Most importantly all the storage space on the Panopto servers is free to Ada as a donation.  Panopto provides embed codes for all videos via an iframe tag.
   * It also provides a [screencasting tool](https://adaacademy.hosted.panopto.com/Panopto/Cache/10.3.1.00010/Software/Panopto%20Recorder.pkg?arch=None&useCustomBinary=True) which can record the screen and webcam and automatically upload to panopto.  The tool is very _simple and basic_, but it does work and is easy to use.
   * Panopto also allows us to string videos together into playlists.  This lets us make short vidoes covering specific topics in longer lessons.
+    * I (Chris) have chosen to name my video files with numbers to make sure I keep the order correct.
 * **[Zoom](https://zoom.us)** - Zoom is our video conferencing software and it provides a way to record meetings which works pretty well.  
   * You can record any meeting and download it to your computer and then upload the results to Panopto.  This is an outstanding way to do a _dual instructor lesson_.
 
@@ -55,11 +56,12 @@ To help adding video lessons the flow goes like this:
 1.  Mark the video as "In Progress" in the airtable
 1.  Record the lesson making edits as needed
 1.  Upload the video lessons to [panopto](https://adaacademy.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22bf8fa6c1-e3d3-46b2-b3f9-accb01698ec1%22)
-1.  Create a playlist (even for a 1 video lesson) and attach videos to it.
-1.  Place the embedded iframe for the playlist into the learn lesson.
-1.  Git-add-commit and learn publish the lesson
-1.  Watch at least a bit of each video, just to make SURE you didn't make a mistake 😊
-1.  Mark the lesson as done in the airtable.
+1.  Create a playlist (even for a 1 video lesson) and attach videos to it. 
+      - Check the videos in the playlist to verify the order please!
+2.  Place the embedded iframe for the playlist into the learn lesson.
+3.  Git-add-commit and learn publish the lesson
+4.  Watch at least a bit of each video, just to make SURE you didn't make a mistake 😊
+5.  Mark the lesson as done in the airtable.
 
 ## Questions To Answer Over Time
 
