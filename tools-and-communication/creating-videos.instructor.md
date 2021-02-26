@@ -57,11 +57,17 @@ To help adding video lessons the flow goes like this:
 1.  Record the lesson making edits as needed
 1.  Upload the video lessons to [panopto](https://adaacademy.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22bf8fa6c1-e3d3-46b2-b3f9-accb01698ec1%22)
 1.  Create a playlist (even for a 1 video lesson) and attach videos to it. 
-      - Check the videos in the playlist to verify the order please!
+      - Check the videos in the playlist to verify the order please! 
 2.  Place the embedded iframe for the playlist into the learn lesson.
 3.  Git-add-commit and learn publish the lesson
 4.  Watch at least a bit of each video, just to make SURE you didn't make a mistake 😊
 5.  Mark the lesson as done in the airtable.
+
+## Suggested Panopto Organization
+
+Organize a folder based on the repository the lessons are for (Core Unit 1 for example).  Inside that folder create a folder for each unit (square in learn) and the videos for that unit and their playlists go into it.  This makes it a bit easier to move things around in Panopto and it mirrors the Learn organization for newcomers.
+
+It would likely be a good idea to create a folder outside of a cohort to semi-permanently host the videos.  Currently we are using the C16 folder in Panopto.  Luckily folders and files are easy to move or copy in Panopto.
 
 ## Questions To Answer Over Time
 
