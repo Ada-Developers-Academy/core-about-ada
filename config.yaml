@@ -19,6 +19,10 @@ Standards:
       - success criteria
     ContentFiles:
       -
+        Type: Instructor
+        UID: 19d30c1f-533a-4a89-b239-df6854393b47
+        Path: /tools-and-communication/creating-videos.instructor.md
+      -
         Type: Lesson
         UID: 8dd383a70f724d1eb720a9d077b80f66
         Path: /tools-and-communication/online-communication-norms.md
