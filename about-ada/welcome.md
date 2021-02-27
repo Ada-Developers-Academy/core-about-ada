@@ -1,7 +1,5 @@
 # Welcome
 
-__TODO: Does somebody want to write a welcome? (this is pulled from the C15 handbook)__
-
 Dear Ada Student,
  
 Welcome to Ada Developers Academy!

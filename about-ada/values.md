@@ -1,6 +1,6 @@
 # The Values of Ada Staff: SECRETS
 
-__Note: replace when new values are finalized__
+__TODO: replace when new values are finalized__
 
 The Ada SECRETS represents our organization's values, and sets the expectations of how we treat ourselves and each other. It's our set of principles that we will fall back on when we need to make a decision of how to act in any given situation at Ada.
 

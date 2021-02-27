@@ -1,12 +1,11 @@
-# Intro to Learn
-
-__TODO: REWORK__
+# Learn LMS
 
 [Learn](http://learn-2.galvanize.com/) is a Learning Management tool, developed by [Galvanize](https://www.galvanize.com/) designed specifically for the needs of bootcamp students. Ada is excited to be using this tool for C15.
 
 <iframe src="https://adaacademy.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=1659fe90-a80e-457c-a081-ac18004c9f13&autoplay=false&offerviewer=true&showtitle=true&showbrand=false&start=0&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
 
 ## What's in Learn?
+_TODO: GET FEEDBACK__
 
 Learn contains:
 - Curriculum

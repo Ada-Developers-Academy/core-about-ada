@@ -1,7 +1,5 @@
 # Work in Progress
 
-__NOTE: This is an updated version of the C14 letter, replace if desired.__
-
 **Hello C15!**
 
 We also wanted to give a personal letter to you, from the Education Team at Ada! We were hoping to share some feelings about uncertainty, and ask for grace from you all.
