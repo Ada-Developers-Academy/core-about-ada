@@ -1,7 +1,5 @@
 # Retros
 
-__TODO: Get this reviewed by current instructor to see if it needs an update__
-
 ## What is a Retrospective aka Retro?
 
 "Agile" is a set of methodologies and processes of software development. In Agile, a sprint is a phase of a project. A project is completed over many sprints. Agile teams conduct a _retrospective_ after each sprint. This is an opportunity to examine how the team is working together. It's a mediated conversation about the process by which the team is accomplishing its tasks and goals.
@@ -18,7 +16,10 @@ Retros can vary a lot in format. At Ada, we will do the following process:
 
 During the week, whenever it wouldn't disrupt other classroom activities, add your thoughts and observations to the retro board. 
 
-**The retro board can be found at the [retro board page](todo)__TODO need real link__**
+**Retro boards submission forms and links:**
+- [Rock Retro board](https://airtable.com/shrhkOa4trPsNGkFh)
+- [Paper Retro board](https://airtable.com/shrPy4QfMYZKQVAox)
+- [Scissors Retro board](https://airtable.com/shrwQdCdGqxLtJ9gf)
 
 We will use the three categories below to classify our experiences and things that we want to acknowledge or discuss:
 
@@ -26,7 +27,6 @@ We will use the three categories below to classify our experiences and things th
 1. What could be improved?
 1. Positive Experiences & Appreciation!
 
-The retro board can be found at the [retro board page](todo)__TODO need real link__
 
 ### Retro Process
 

@@ -1,7 +1,5 @@
 # Online Meeting Rooms
 
-__TODO: UPDATE__
-
 For C15, Ada is using Zoom for online classes and meetings. We maintain a set of permanent links to "classroom" zoom meetings.
 
 - [Auditorium](http://auditorium.adadev.org)
@@ -16,9 +14,9 @@ When the online meetings are recorded we have enabled the recordings to automati
 You can find the recordings here:
 
 - [Auditorium](https://adaacademy.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=68179df6-b98d-4b12-8f68-ac32016bc0a0)
-- [Rock]()(https://adaacademy.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=c20bbb2f-c157-4834-ae85-ac3401743eba)
-- [Paper]()(https://adaacademy.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=c851f159-6c8a-4040-b64c-ac34016f5761)
-- [Scissors]()(https://adaacademy.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=2ebb2009-1b3b-4d7a-ad84-ac340179c79f)
+- [Rock](https://adaacademy.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=69e8d595-5a24-41d8-865a-acd400039057)
+- [Paper](https://adaacademy.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=65bfdc83-a102-4b8c-bafd-acd400035eb5)
+- [Scissors](https://adaacademy.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=d31d1237-b344-4006-88be-acd40003a5e7)
 
 ## Instructor Private Rooms
 

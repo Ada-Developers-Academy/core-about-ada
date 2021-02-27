@@ -72,11 +72,15 @@ Standards:
         Path: /being-an-adie/pods.md
       -
         Type: Lesson
+        UID: 44bf54c2-af18-4943-9895-ecd8d11b9802
+        Path: /being-an-adie/learning-plans.md
+      -
+        Type: Lesson
         UID: f8ed1ed6-be0e-414e-acb9-a82da19521e7
         Path: /being-an-adie/student-services-one-on-one.md
   -
     Title: Tools
-    Description: Learn LMS, Slack, Google Calendar
+    Description: Learn LMS, Slack, Google Calendar, Email
     UID: de602537-5504-4987-a8ce-b6282bfbea55
     SuccessCriteria:
       - success criteria
@@ -93,13 +97,21 @@ Standards:
         Type: Lesson
         UID: d10a2d81-89b4-44f3-8adb-be4d8456689f
         Path: /tools/google-calendar.md
+      -
+        Type: Lesson
+        UID: 31286b64-d977-4456-9f1b-302cefe24560
+        Path: /tools/email.md
   -
     Title: Video Communication
-    Description: Communication Norms, Meeting Rooms
+    Description: Zoom, Communication Norms, Meeting Rooms
     UID: 2acc992b-efdd-472d-9b60-29769018404c
     SuccessCriteria:
       - success criteria
     ContentFiles:
+      -
+        Type: Lesson
+        UID: 6c5c336f-eb6d-4f18-831b-72841d21599f
+        Path: /video-communication/zoom.md
       -
         Type: Lesson
         UID: b2532fde-7770-4626-947b-491d3f7f8e6a

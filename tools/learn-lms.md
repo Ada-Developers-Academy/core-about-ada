@@ -7,70 +7,49 @@ __TODO: REWORK__
 <iframe src="https://adaacademy.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=1659fe90-a80e-457c-a081-ac18004c9f13&autoplay=false&offerviewer=true&showtitle=true&showbrand=false&start=0&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
 
 ## What's in Learn?
-__TODO: this needs to be updated__
-In Learn you will find Ada's curriculum, written by instructors at Ada.
 
+Learn contains:
+- Curriculum
+  - Lessons
+  - Problem Sets
+  - Activities
+- Social Justice Curriculum __TODO: details?__
+- Problem Sets
+- Problem Solving Exercises (PSEs)
+- Information about Ada
+- Social Justice Curriculum __TODO: details?__
+- Pre-Ada Material
 
-You will also find assessments we have created to help identify areas of mastery and concepts we need to reinforce. The assessments include multiple-choice, short-answer and long-answer questions as well as programming exercises. You have already experienced these lessons and assessments in the Pre-Ada Material.
-
-## Grades
-__TODO: are we still using this??__
-Learn does track percentage scores. We cannot turn that off, but we will not use overall percentage scores to assess students.
-
-At Ada we assess students primarily through programming projects and exercises known as Problem Sets. In most cases, the scale will be as such:
-
-- Green
-  - You have met or exceeded the major learning goals for this project; there is evidence that the produced code shows enough understanding
-- Yellow
-
-  - You approached meeting the major learning goals for this project; to the grader, there is evidence that the produced code shows some understanding, and shows evidence that not all major learning goals were met
-
-- Red
-  - You did not meet the major learning goals for this project; there is evidence that most major learning goals were not met, the progress on the project shows need for support on completion, quality, or both; the project is broken and not running
-
-In general, you may resubmit work as many times as you like, however Ada moves at a fairly rapid pace and you are encouraged after submitting an assignment and getting feedback, to absorb the feedback and apply that learning on new projects, unless otherwise directed.
-
-## Organization
-__TODO: Units - Topics - Lessons & Problem Sets__
-__TODO: Are we using assessments??__
-Learn is organized into **Sections**. Each section is a major area of study at Ada. The Pre-Ada Material was such a area.
-
-![Learn Section Example](../assets/section.png)
+## Curriculum Organization
 
 ### Units
 
-Each section has a number of **units** (those rectangles inside each section).
+The curriculum in Learn is organized into **Units**. Each unit is a major area of study at Ada. The Pre-Ada Material was such a area.
 
-![Learn unit](../assets/unit.png)
+![Learn Unit Example](../assets/section.png)
+
+### Topics
+
+Each section has a number of **topics** (those rectangles inside each section).
+
+![Learn Topic](../assets/unit.png)
 
 ### Lessons
 
-Each unit will have a number of lessons, text-based lessons on different topics with code examples and often interactive questions and activities.
+Each topic will have a number of lessons, text-based lessons on different topics with code examples and often interactive questions and activities.
 
 You will also often be able to find videos embedded in the lesson with an instructor delivering the material and walking through examples.
 
 ![A lesson](../assets/lesson.png)
 
-### Exercises/Assessments
+### Problem Sets
 
-Each unit will also often feature assessments which can contain multiple choice, short-answer and long-answer questions as well as programming exercises. You will also often see programming projects assigned here.
+Most topics will also often feature a problem set which can contain multiple choice, short-answer and long-answer questions as well as programming exercises. 
 
-You can identify an assessment by the star next to the name in the menu.
+![A problem set](../assets/problem-set.png)
 
-We will discuss how to submit these programming projects soon.
+### Activities
 
-**Before Taking An Assessment**
+ Many topics also include activities, which are group activities that will be fascilitated during roundtables.
 
-![Assessment before](../assets/assessment1.png)
-
-**While Taking An Assessment**
-
-![Assessment during](../assets/assessment2.png)
-
-**After Taking An Assessment**
-
-![Assessment after](../assets/assessment3.png)
-
-## Checking on your progress
-
-You can see on each unit the percentage report from your checkpoint/exercise. At Ada we do not grade students based on the percentages, but it can give you a general idea about how you did on the assessment.
+ ![An activity](../assets/activity.png)
