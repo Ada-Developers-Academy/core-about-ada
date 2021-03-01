@@ -2,50 +2,74 @@
 
 No two Adies are exactly the same and neither are two Adie schedules.  We surveyed a few Adies and mashed their schedules together to come up with this rough guide to how you'll spend your day as an Adie!
 
-- 9:00am-10:00am: Wake up, Breakfast, Check Calendar, Slack, Email, Learn.
+## 9:00am-10:00am
+
+Wake up, Breakfast, Check Calendar, Slack, Email, Learn.
 
 ![check all the things](../assets/day_life/check_all_the_things.png)
 
-- 9:30am-10:30am or 10:50am-11:50am: Roundtables.
+## 9:30am-10:30am or 10:50am-11:50am
+
+Roundtables.
 
 ![zoom class](../assets/day_life/zoom_class_dance.gif)
 
-- 11:50am - 12:00pm: Stretch Break!
+## 11:50am - 12:00pm
+
+Stretch Break!
 
 ![stretch](../assets/day_life/stretch.jpeg)
 
-- 12:00pm-1:00pm: Lunch.
+## 12:00pm-1:00pm
+
+Lunch.
 
 ![lunch](../assets/day_life/lunch.gif)
 
-- All Afternoon: Ask for Help!  Slack or Office Hours on Zoom are great ways to get help.
+## All Afternoon
+
+Ask for Help!  Slack or Office Hours on Zoom are great ways to get help.
 
 ![help](../assets/day_life/help.gif)
 
-- 1:00pm-2:30pm: Online meetings if any (Retro, Homeroom, etc).
+## 1:00pm-2:30pm
+
+Online meetings if any (Retro, Homeroom, etc).
 
 ![online meetings](../assets/day_life/zoom_class.gif)
 
-- 2:00pm - 5:00pm: Read Code, Write Code, Think About Code...
+## 2:00pm - 5:00pm
+
+Read Code, Write Code, Think About Code...
 
 ![one bug left](../assets/day_life/one_bug_left.png)
 
-- 3:00pm - 3:30pm: See the Sunshine!  Go outside and get some fresh air.
+## 3:00pm - 3:30pm
+
+See the Sunshine!  Go outside and get some fresh air.
 
 ![outside](../assets/day_life/outside.jpg)
 
-- 4:00pm: Talk to other Adies.  Co-work, study together, help eachother!
+## 4:00pm
+
+Talk to other Adies.  Co-work, study together, help each other!
 
 ![cats online](../assets/day_life/cats_online.jpg)
 
-- 5:00pm - 9:00pm: Dinner, Decompress, Family Time!
+## 5:00pm - 9:00pm
+
+Dinner, Decompress, Family Time!
 
 ![relax](../assets/day_life/family.gif)
 
-- 8:00pm-11:00pm: Watch lessons for tomorrow.
+## 8:00pm - 11:00pm
+
+Watch lessons for tomorrow.
 
 ![study](../assets/day_life/cat_computer.gif)
 
--10:00pm-11:00pm: Sleep.
+## 10:00pm - 11:00pm
+
+Go to Sleep.
 
 ![sleep](../assets/day_life/sleep.jpg)
