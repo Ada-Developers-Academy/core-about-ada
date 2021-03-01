@@ -1,5 +1,7 @@
 # A Day in the Life of an Adie
 
+No two Adies are exactly the same and neither are two Adie schedules.  We surveyed a few Adies and mashed their schedules together to come up with this rough guide to how you'll spend your day as an Adie!
+
 - 9:00am-10:00am: Wake up, Breakfast, Check Calendar, Slack, Email, Learn.
 
 ![check all the things](../assets/day_life/check_all_the_things.png)
@@ -8,9 +10,17 @@
 
 ![zoom class](../assets/day_life/zoom_class_dance.gif)
 
+- 11:50am - 12:00pm: Stretch Break!
+
+![stretch](../assets/day_life/stretch.jpeg)
+
 - 12:00pm-1:00pm: Lunch.
 
 ![lunch](../assets/day_life/lunch.gif)
+
+- All Afternoon: Ask for Help!  Slack or Office Hours on Zoom are great ways to get help.
+
+![help](../assets/day_life/help.gif)
 
 - 1:00pm-2:30pm: Online meetings if any (Retro, Homeroom, etc).
 
@@ -19,6 +29,10 @@
 - 2:00pm - 5:00pm: Read Code, Write Code, Think About Code...
 
 ![one bug left](../assets/day_life/one_bug_left.png)
+
+- 3:00pm - 3:30pm: See the Sunshine!  Go outside and get some fresh air.
+
+![outside](../assets/day_life/outside.jpg)
 
 - 5:00pm - 9:00pm: Dinner, Decompress, Family Time!
 
