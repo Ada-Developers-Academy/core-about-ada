@@ -34,6 +34,10 @@ No two Adies are exactly the same and neither are two Adie schedules.  We survey
 
 ![outside](../assets/day_life/outside.jpg)
 
+- 4:00pm: Talk to other Adies.  Co-work, study together, help eachother!
+
+![cats online](../assets/day_life/cats_online.jpg)
+
 - 5:00pm - 9:00pm: Dinner, Decompress, Family Time!
 
 ![relax](../assets/day_life/family.gif)
