@@ -12,11 +12,9 @@ Learn contains:
   - Lessons
   - Problem Sets
   - Activities
-- Social Justice Curriculum __TODO: details?__
 - Problem Sets
 - Problem Solving Exercises (PSEs)
-- Information about Ada
-- Social Justice Curriculum __TODO: details?__
+- Information About Ada
 - Pre-Ada Material
 
 ## Curriculum Organization
