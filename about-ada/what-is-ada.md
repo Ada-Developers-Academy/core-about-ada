@@ -10,7 +10,6 @@ To give you all an introduction to Ada's Core Program, we'll cover:
    - Support From Staff
    - Support From Tools
 1. The Internship Portion
-1. Grace
 
 ## 🤔 Mission 🤔
 
@@ -107,12 +106,15 @@ Please refer to your Student Handbook for details on:
 
 We will cover the following subjects (in detail on [our syllabus](https://github.com/Ada-Developers-Academy/pedagogy/blob/master/classroom/syllabus.md))
 
-1. **Programming Fundamentals in Ruby** (6 Weeks)
+1. **Programming Fundamentals in Python** (5 Weeks)
+1. **Servers as APIs With the Flask Framework** (4 Weeks)
+1. **Company Presentations** (2 Weeks)
 1. **Static Web** (1 Week)
-1. **Servers as APIs and Full-Stack Development** (6 Weeks)
 1. **Learning Your Second Language: JavaScript** (2 Weeks)
-1. **Front-End Development: React** (3 Weeks)
-1. **Independent Capstone Project** (4 Weeks: 1 individual self-study week, 3 weeks of development)
+1. **Front-End Development: React** (2 Weeks)
+1. **Career Prep & Wrap-Up** (1 Week)
+1. **Interview Week** (1 Week)
+1. **Capstone Project** (4 Weeks: 1 self-study week, 3 weeks of development)
 
 We operate on a rolling schedule release: Every week, we will set the schedule on the classroom calendar for 2 weeks in advance.
 
@@ -204,28 +206,6 @@ During the classroom portion, look forward to communication about:
 Graduation comes after the internship portion, and on successful completion of the graduation requirements listed in the Student Handbook.
 
 At that point, you will join the Ada Alum network.
-
-# 💌 Note from the Education Team: Asking for Grace 💌
-
-Hello C14!
-
-We also wanted to give a personal letter to you, from the Education Team at Ada! We were hoping to share some feelings about uncertainty, and ask for grace from you all.
-
-What do you all think about the program so far?
-
-While we've now run one very successful cohort that spent 18 weeks learning online (thank you, C13!), you, C14, are the first cohort that Ada has ever begun completely online.
-
-We are sad and anxious, as this online experience may not be what you expected for learning programming, and it will be very different from how you experienced school, education, or learning in the past.
-
-We're nervous because we _will_ not make the best decisions all the time, and we will need to collaborate, reflect, and evolve with you this year.
-
-However, learning programming in an online format is genuinely one of the best and most exciting things we can imagine. Not only are we living in the future, but we are _forming_ the future.
-
-As the Ada staff work towards making the best learning experience yet, we ask that you, C14, give us support, patience, grace, understanding, and loving and critical feedback as we work through the road bumps.
-
-We're in this together! Let's stay in this together, and make it good and great together, too.
-
--- Education Team, August 2020
 
 <!-- Question Takeaway -->
 <!-- prettier-ignore-start -->
