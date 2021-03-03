@@ -1,6 +1,6 @@
 # Roundtables
 
-Roundtables are a core component of the Ada curriculum.  Roundtables meet daily and are a place to ask questions, discuss lessons and problems and review content.  The format of a roundtable includes live code sessions with instructors, group activities in the curriculum and question and answer sessions.
+Roundtables are a core component of the Ada curriculum.  Roundtables meet almost daily and are a place to ask questions, discuss lessons and problems and review content.  The format of a roundtable includes live code sessions with instructors, group activities in the curriculum and question and answer sessions.
 
 Roundtables are a group of 12 students, and the first roundtables will be grouped from your homeroom assignment.  Roundtables will change at the end of each unit (two times total).
 
@@ -12,7 +12,8 @@ Roundtables meet at either 9:30am-10:30am or 10:50-11:50am.
 - Roundtable instructors facilitating your group may differ day-to-day.
 - Roundtable groups will change the weeks of **April 12th** and **March 17**
 - Roundtable checkout questions can be submitted using the [roundtable question form](todo) __todo__
-- Use the #roundtables slack channel for follow up conversation and questions 
+- Use the #roundtables slack channel for follow up conversation and questions
+- Roundtables with the "Activity" label in the calendar will focus on the associated activity from Learn. 
 
 ## Format
 

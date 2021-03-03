@@ -46,6 +46,6 @@ Most topics will also often feature a problem set which can contain multiple cho
 
 ### Activities
 
- Many topics also include activities, which are group activities that will be fascilitated during roundtables.
+ Many topics also include activities, which are group activities that will be facilitated during roundtables.
 
  ![An activity](../assets/activity.png)
