@@ -8,10 +8,20 @@ Roundtables meet at either 9:30am-10:30am or 10:50-11:50am.
 
 ## Logistics
 
-- You can view your roundtable assigment at the [Roundtable assigment page](todo)__todo__
+- You can view your roundtable assigment at the [Roundtable assigment page](https://airtable.com/shriFMlEJEU7ZMvqL)__todo CONFIRM__
 - Roundtable instructors facilitating your group may differ day-to-day.
 - Roundtable groups will change the weeks of **April 12th** and **March 17**
-- Roundtable questions can be submitted using the [Roundtable question form](todo) __todo__
+- Roundtable checkout questions can be submitted using the [roundtable question form](todo) __todo__
+- Use the #roundtables slack channel for follow up conversation and questions 
+
+## Format
+
+Roundtables will generally include the following elements:
+
+- A warm-up using a check-in question posted in the Google calendar event.
+- A guided review using the check understanding questions from Learn.
+- The main event (this includes things like large and small group activities, a question-answer session, a live code demonstration, etc).
+- Checkout form to submit feedback and questions (this is optional).
 
 ## Roundtable Attendance
 
