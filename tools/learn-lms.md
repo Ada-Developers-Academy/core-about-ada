@@ -32,7 +32,7 @@ Each section has a number of **topics** (those rectangles inside each section).
 
 ### Lessons
 
-Each topic will have a number of lessons, text-based lessons on different topics with code examples and often interactive questions and activities.
+Each topic will have a number of text-based lessons on different sub-topics. These lessons will have code examples and often interactive questions.
 
 There are often videos embedded in the lesson with an instructor delivering the material and walking through examples.
 
