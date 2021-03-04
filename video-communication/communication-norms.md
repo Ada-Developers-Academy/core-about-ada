@@ -18,7 +18,7 @@
 - You can enable remote access through Zoom-- a feature that will let someone else on the Zoom call control your computer temporarily. Sometimes we will do this at Ada!
 - Tools you can use to generate a cartoon avatar:
   - [Bitmoji](https://www.bitmoji.com/)
-  - [Picrew](https://picrew.me/) (Site is in Japanese, but buttons are decently clear.)
+  - [Picrew](https://picrew.me/) (Site is in Japanese, but buttons are decently clear)
 
 ### !callout-info
 
