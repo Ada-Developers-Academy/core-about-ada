@@ -11,7 +11,7 @@ At the end of this program, students will be able to:
 - Communicate about Code
     - Apply coding and communication skills combined to team-based software development
 - Prepare Themselves for Industry
-    - Successful internship in software development and future career
+    - Complete successful internship in software development and future career
     - Combine their code skills and job-preparation workshops to prepare themselves for a successful internship in software development
 - Build Communities rooted in Social Justice
     - Integrate skills learned from social justice, advocacy, diversity, equity, and inclusivity to co-author a supportive learning community
