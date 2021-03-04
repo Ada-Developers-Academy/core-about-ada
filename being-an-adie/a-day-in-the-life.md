@@ -2,14 +2,14 @@
 
 No two Adies are exactly the same and neither are two Adie schedules.  We surveyed a few Adies and mashed their schedules together to come up with this rough guide to how you'll spend your day as an Adie!
 
-## 9:00am-9:30am
+## 9:00am - 9:30am
 
 Wake up, Breakfast, Check Calendar, Slack, Email, Learn.
 
 ![check all the things](../assets/day_life/check_all_the_things.png)  
 [(source)](http://hyperboleandahalf.blogspot.com/2010/06/this-is-why-ill-never-be-adult.html)
 
-## 9:30am-10:30am or 10:50am-11:50am
+## 9:30am - 10:30am or 10:50am - 11:50am
 
 Roundtables.
 
@@ -23,7 +23,7 @@ Stretch Break!
 ![stretch](../assets/day_life/stretch.jpeg)  
 [(source)](https://www.petguide.com/blog/cat/whats-cats-stretching/)
 
-## 12:00pm-1:00pm
+## 12:00pm - 1:00pm
 
 Lunch.
 
@@ -37,7 +37,7 @@ Ask for Help!  Slack or Office Hours on Zoom are great ways to get help.
 ![help](../assets/day_life/help.gif)  
 [(source)](https://giphy.com/gifs/schittscreek-schittscreek-pop-poptv-comedy-tv-funny-eugenelevy-danlevy-l0IycEw2wscAQzG6Y)
 
-## 1:00pm-2:30pm
+## 1:00pm - 2:30pm
 
 Online meetings if any (Retro, Homeroom, etc).
 
