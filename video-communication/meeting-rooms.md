@@ -13,11 +13,11 @@ When the online meetings are recorded we have enabled the recordings to automati
 
 You can find the recordings here:
 
-- [Auditorium](https://adaacademy.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=68179df6-b98d-4b12-8f68-ac32016bc0a0)
-- [Rock](https://adaacademy.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=69e8d595-5a24-41d8-865a-acd400039057)
-- [Paper](https://adaacademy.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=65bfdc83-a102-4b8c-bafd-acd400035eb5)
-- [Scissors](https://adaacademy.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=d31d1237-b344-4006-88be-acd40003a5e7)
+- [Auditorium](https://adaacademy.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=01af0bbe-b468-468b-9be9-acd600077431)
+- [Rock](https://adaacademy.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=933f84a7-084b-4d08-a8ec-acd9002652b1)
+- [Paper](https://adaacademy.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=2c7d6123-9d34-43e8-85a9-acd90029c21d)
+- [Scissors](https://adaacademy.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=473df369-88ae-4e05-80a0-acd801578d1b)
 
 ## Instructor Private Rooms
 
-Instructors also have private zoom meeting links to their personal accounts they can share with students for 1-on-1s. These rooms are not open except by appointment for private discussions.
+Instructors also have private zoom meeting links to their personal accounts they can share with students for 1-on-1s. These rooms are not open except by appointment for private discussions.  They typically can be found with <instructor-first-name>.adadev.org
