@@ -2,7 +2,7 @@
 
 No two Adies are exactly the same and neither are two Adie schedules.  We surveyed a few Adies and mashed their schedules together to come up with this rough guide to how you'll spend your day as an Adie!
 
-## 9:00am-10:00am
+## 9:00am-9:30am
 
 Wake up, Breakfast, Check Calendar, Slack, Email, Learn.
 
