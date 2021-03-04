@@ -34,7 +34,7 @@ Each section has a number of **topics** (those rectangles inside each section).
 
 Each topic will have a number of lessons, text-based lessons on different topics with code examples and often interactive questions and activities.
 
-You will also often be able to find videos embedded in the lesson with an instructor delivering the material and walking through examples.
+There are often videos embedded in the lesson with an instructor delivering the material and walking through examples.
 
 ![A lesson](../assets/lesson.png)
 
