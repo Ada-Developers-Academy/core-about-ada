@@ -14,7 +14,7 @@
 - Adding in extra tutoring sessions or review sessions with an instructor.
 - Identifying work to prioritize in the event that you’ve fallen behind the curriculum pace. 
 - Documenting an expectation that the next project will be submitted on time even if it’s incomplete. (Helpful if you’re struggling with perfectionism.)
-- Reducing the deliverables of the next project so you can focus on really understanding the material in the time you have. 
+- Reducing the deliverables of the next project so you can focus on the most important learning goals. 
 
 ## Here are some examples of Learning Plan outcomes:
 
