@@ -6,15 +6,15 @@ At Ada and in the tech industry at large we use Slack. Slack is a messaging plat
 
 ## Slack Norms
 
-1. **Use it!** Use it often and keep it open during core hours
-1. Continue to be kind, compassionate, and all other values that the Ada community stands for in text format
+1. **Use it!** Use it often and keep it open during core hours.
+1. Continue to be kind, compassionate, and all other values that the Ada community stands for in text format.
 1. Diligently read the official Ada channels. **We will use very frequently this to communicate announcements, updates, reminders, and questions.**
-1. **Make Slack effective and helpful to you** (see tips)
+1. **Make Slack effective and helpful to you** (see tips).
 1. Be responsive
-   - When possible, respond as soon as you can, or inform the other person that you will respond later
+   - When possible, respond as soon as you can, or inform the other person that you will respond later.
    - Respond to the best of your ability. Often times, the best response is "I don't know," "I'm not sure," "I need one day to reply to you," or "I need help."
 1. Trust others
-   - Trust others to respond when they can, as soon as they can, to the best of their ability
+   - Trust others to respond when they can, as soon as they can, to the best of their ability.
 1. Have a bias towards sharing what you have to say, asking questions, and asking for help often and frequently vs. not sharing, not asking questions, or not asking for help.
 
 ### Tips
@@ -103,4 +103,3 @@ We've added some emoji to our Slack that you can use if you want to indicate you
 If there are any other pronoun badges you would like let Kaida know, she's happy to make more!
 
 If you would like to try your hand at making your own the ../assets are on [github](https://github.com/kaidamasaki/pronoun-badges).
-
