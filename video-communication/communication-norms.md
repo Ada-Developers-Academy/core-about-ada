@@ -10,7 +10,7 @@
 1. **Keep yourself on mute until you're ready to speak**
    - This eliminates audio feedback and distraction
 1. **Set your Zoom avatar to be an image that represents your appearance (so we can recognize you!)**
-   - Consider a photo of yourself or a cartoon avatar that resembles you.
+   - Consider a photo of yourself or a cartoon avatar that resembles you
 
 ### Tips
 
