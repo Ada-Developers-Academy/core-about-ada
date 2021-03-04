@@ -29,6 +29,6 @@ Roundtables will generally include the following elements:
 Roundtable attendance is required.  Please refer to the [Attendance](./attendance.md) documentation for the full details.  The attendance requirement are:
 
 - Cannot miss more than 15% of class.
-- There will be a [Learning Plan](./learning-plan.md) after 5 days of excused absence or 3 days unexcused to address any concerns.
+- There will be a [Learning Plan](./learning-plans.md) after 5 days of excused absence or 3 days unexcused to address any concerns.
 - Three late arrivals will count as one absence.
 - If you will be absent or late, email [absent@adadevelopersacademy.org](mailto:absent@adadevelopersacademy.org) and state your name, the day you will be absent, and a high-level reason why you will be missing class.
