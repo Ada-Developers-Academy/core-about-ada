@@ -19,4 +19,4 @@ Assignments at Ada come in two different forms, projects and problem sets.
 ## Problem Sets
 
 - Logistics: Problem sets are found at the end of most topics in Learn.  Problem sets are designed to help you practice the content from the topic and are required.  
-- Submission: You will work through the problem set in Learn.  They are auto-evaluated and no additional submission is required.  Problem sets are expected to be completed **two days** after the end of the topic on the calendar and will be reivewed by your 1:1 instructor at that time.
+- Submission: You will work through the problem set in Learn.  They are auto-evaluated and no additional submission is required.  Problem sets should be attempted on the day their topic is assigned. We will generally review them in the next morning's roundtable. Problem sets are expected to be completed **two days** after the end of the topic on the calendar and will be checked for completion by your 1:1 instructor at that time.
