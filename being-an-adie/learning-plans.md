@@ -2,7 +2,7 @@
 
 [A Learning Plan](https://drive.google.com/file/d/1I1ljWhcF1RL0ih7La2P26iXhq1QABmFx/view) (LP) is a structure we use to help individualize the academic experience at Ada when a student would benefit from more or different support around particular curriculum content. The objective of an LP is to provide concrete and personalized solutions when you need academic support for any reason. An LP typically lasts 1-3 weeks and could resolve with no further action, or we may suggest extending/reworking the plan. 
 
-## Here are some reasons we might suggest a learning plan, or why you might request one:
+## Here are some reasons we might suggest a Learning Plan, or why you might request one:
 
 - You feel like you’re falling behind the curriculum and need help with pacing and prioritizing.
 - There’s a particular section of the curriculum that isn’t coming naturally or you need more help understanding. 
