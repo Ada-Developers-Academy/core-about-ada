@@ -13,9 +13,9 @@ Homerooms are a group of 24 students in either “Rock”, “Paper”, or “Sc
 
 Homerooms will meet at their respective Zoom rooms:
 
-- Rock: [rock.adadev.org](rock.adadev.org)
-- Paper: [paper.adadev.org](paper.adadev.org)
-- Scissors: [scissors.adadev.org](scissors.adadev.org)
+- Rock: [rock.adadev.org](https://rock.adadev.org)
+- Paper: [paper.adadev.org](https://paper.adadev.org)
+- Scissors: [scissors.adadev.org](https://scissors.adadev.org)
 
 ## Logistics
 
