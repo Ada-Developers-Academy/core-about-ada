@@ -7,7 +7,7 @@
 - You feel like you’re falling behind the curriculum and need help with pacing and prioritizing.
 - There’s a particular section of the curriculum that isn’t coming naturally or you need more help understanding. 
 - Some big things have been happening in your personal life and your ability to fully focus on Ada isn’t as high right now. 
-- You got a red on your last assignment and we want to make sure you’re moving forward alright with that content
+- You got a red on your last assignment and we want to make sure you’re moving forward alright with that content.
 
 ## Here are some examples of what a Learning Plan might include:
 
