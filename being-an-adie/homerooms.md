@@ -1,6 +1,6 @@
 # Homerooms
 
-This is a group of 24 students in either “Rock”, “Paper”, or “Scissors”. There is a Slack channel for each homeroom. The purpose of your homeroom is to create a “classroom-sized” setting within the cohort for all students to feel seen and be able to collaborate. Homerooms remain the same throughout the cohort.
+Homerooms are a group of 24 students in either “Rock”, “Paper”, or “Scissors”. There is a Slack channel for each homeroom. The purpose of your homeroom is to create a “classroom-sized” setting within the cohort for all students to feel seen and be able to collaborate. Homerooms remain the same throughout the cohort.
 
 
 ## Homeroom Instructors
