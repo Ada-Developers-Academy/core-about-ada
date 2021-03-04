@@ -6,7 +6,7 @@ We also wanted to give a personal letter to you, from the Education Team at Ada!
 
 What do you all think about the program so far?
 
-While we've now run two very successful cohorts online, the first, C13,spent 18 weeks learning online and C14 was completely online.
+While we've now run two very successful cohorts online, the first, C13, spent 18 weeks learning online and C14 was completely online.
 
 We are sad and anxious, as this online experience may not be what you expected for learning programming, and it will be very different from how you experienced school, education, or learning in the past.
 
