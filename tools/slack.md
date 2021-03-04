@@ -19,10 +19,10 @@ At Ada and in the tech industry at large we use Slack. Slack is a messaging plat
 
 ### Tips
 
-- Mute conversations that you don't want notifications for
-- Use "Do Not Disturb" mode on your devices when you don't want to be notified
+- Mute conversations that you don't want notifications for.
+- Use "Do Not Disturb" mode on your devices when you don't want to be notified.
 - Join, create, and leave as many channels that are useful to you!
-- Type in a way that is genuine to you: use any writing style, emoji, etc. that feels good
+- Type in a way that is genuine to you: use any writing style, emoji, etc. that feels good.
 
 ## Sending and Reading Messages
 
