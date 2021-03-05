@@ -1,6 +1,7 @@
 # Audio/Video Communication Norms
 
-![Zoom meeting norms graphic](../assets/online_meeting_norms.png)
+![Zoom meeting norms graphic](../assets/online_meeting_norms.png)  
+[(source)](https://paradigmshiftseattle.com/)
 
 1. **Have your video camera on** as much as possible
    - This allows for attentive engagement, body language, and shared sense of belonging
