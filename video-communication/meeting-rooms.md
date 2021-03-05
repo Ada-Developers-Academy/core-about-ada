@@ -20,4 +20,4 @@ You can find the recordings here:
 
 ## Instructor Private Rooms
 
-Instructors also have private zoom meeting links to their personal accounts they can share with students for 1-on-1s. These rooms are not open except by appointment for private discussions.  They typically can be found with <instructor-first-name>.adadev.org
+Instructors also have private zoom meeting links to their personal accounts they can share with students for 1-on-1s. These rooms are not open except by appointment for private discussions.  They typically can be found with instructor-first-name.adadev.org
