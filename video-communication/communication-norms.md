@@ -1,5 +1,8 @@
 # Audio/Video Communication Norms
 
+![Zoom meeting norms graphic](../assets/online_meeting_norms.png)  
+[(source)](https://paradigmshiftseattle.com/)
+
 1. **Have your video camera on** as much as possible
    - This allows for attentive engagement, body language, and shared sense of belonging
 1. Update your [Zoom profile settings](https://us02web.zoom.us/profile) so that **your name conforms to this template and includes your pronouns: `Name (pronouns)`**
