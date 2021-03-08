@@ -6,8 +6,8 @@ Homerooms are a group of 24 students in either “Rock”, “Paper”, or “Sc
 ## Homeroom Instructors
 
 - Rock: [Audrey](mailto:audrey@adadevelopersacademy.org) and [Claire](mailto:claire@adadevelopersacademy.org)
-- Paper: [Jared](mailto:jared@adadevelopersacademy.org)
-- Scissors: [Chris](mailto:chris@adadevelopersacademy.org)
+- Paper: [Chris](mailto:chris@adadevelopersacademy.org)
+- Scissors: [Jared](mailto:jared@adadevelopersacademy.org)
 
 ## Homeroom meetings
 
