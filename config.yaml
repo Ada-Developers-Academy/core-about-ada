@@ -40,10 +40,6 @@ Standards:
         Path: /being-an-adie/a-day-in-the-life.md
       -
         Type: Lesson
-        UID: d8002988-a0c3-44a9-9457-fa2a2d44af1f
-        Path: /being-an-adie/homerooms.md
-      -
-        Type: Lesson
         UID: dfdac13c-b9fe-485d-8f47-1cc201d1d8e9
         Path: /being-an-adie/attendance.md
       -
@@ -66,10 +62,6 @@ Standards:
         Type: Lesson
         UID: 2fafc181-be7c-4ebd-9aa4-07dce0af70fa
         Path: /being-an-adie/retros.md
-      -
-        Type: Lesson
-        UID: 76149df0-d79e-422c-908c-fb5f4a4673f6
-        Path: /being-an-adie/pods.md
       -
         Type: Lesson
         UID: 44bf54c2-af18-4943-9895-ecd8d11b9802
