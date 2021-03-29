@@ -10,6 +10,7 @@ One of the systems of support at Ada is 1:1 meetings with a member of the Educat
 
 - You will be assigned 2 different 1:1 instructors over the course of the classroom period.
     - 1:1 pairings will change halfway through the cohort to accommodate varying learning styles.
+
 - You will begin meeting with your 1:1 instructor every other week beginning either **March 15** or **March 22**.
 - You can view your assigned instructor on the [1:1 assignment page](https://airtable.com/shrTafDacj6yX8r1N).
 - You should sign-up for a 1:1 slot using calendly.
@@ -24,6 +25,7 @@ One of the systems of support at Ada is 1:1 meetings with a member of the Educat
         - [Chris’s Calendly link](https://calendly.com/chris-at-ada/30min)
         - [Kaida’s Calendly link](https://calendly.com/kaida)
         - [Jasmine’s Calendly link](http://calendly.com/jasmine-ada)
+
 - Meetings will be scheduled for 20 minute time blocks.
     - Please let your instructor know if you think you need more time for the meeting.
 
