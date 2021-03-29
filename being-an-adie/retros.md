@@ -17,9 +17,7 @@ Retros can vary a lot in format. At Ada, we will do the following process:
 During the week, whenever it wouldn't disrupt other classroom activities, add your thoughts and observations to the retro board. 
 
 **Retro boards submission forms and links:**
-- [Rock Retro board](https://airtable.com/shrhkOa4trPsNGkFh)
-- [Paper Retro board](https://airtable.com/shrPy4QfMYZKQVAox)
-- [Scissors Retro board](https://airtable.com/shrwQdCdGqxLtJ9gf)
+- [Retro Board](XXX) (currently under construction)
 
 We will use the three categories below to classify our experiences and things that we want to acknowledge or discuss:
 

@@ -1,6 +1,6 @@
 # Google Calendar
 
-At Ada we use [Google calendar](XXX) to schedule lessons, meetings and homework.
+At Ada we use [Google calendar](https://calendar.google.com/calendar/u/1?cid=Y183cDVlZXVpYzdtY2xhZjhyZmlpZHVkMXQwZ0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t) to schedule lessons, meetings and homework.
 
 Staff and TA office hours will be posted on the [Ada TA Calendar](https://calendar.google.com/calendar/u/0?cid=Y19zYnYwbTZqNGZ0Mmt2aTN1dHBlbWpoMGVoZ0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
 
