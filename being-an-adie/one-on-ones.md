@@ -26,6 +26,7 @@ One of the systems of support at Ada is 1:1 meetings with a member of the Educat
         - [Kaida’s Calendly link](https://calendly.com/kaida)
         - [Jasmine’s Calendly link](http://calendly.com/jasmine-ada)
 
+
 - Meetings will be scheduled for 20 minute time blocks.
     - Please let your instructor know if you think you need more time for the meeting.
 
