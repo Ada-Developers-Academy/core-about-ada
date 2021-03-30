@@ -14,7 +14,7 @@ One of the systems of support at Ada is 1:1 meetings with a member of the Educat
 - You can view your assigned instructor on the [1:1 assignment page](XXX).
 - You should sign-up for a 1:1 slot using calendly.
     - [Ansel's Calendly link](https://calendly.com/anselr)
-    - [Trinesha's Calendly link](https://calendly.com/trenishag)
+    - [Trenisha's Calendly link](https://calendly.com/trenishag)
     
 - Meetings will be scheduled for 20 minute time blocks.
     - Please let your instructor know if you think you need more time for the meeting.
