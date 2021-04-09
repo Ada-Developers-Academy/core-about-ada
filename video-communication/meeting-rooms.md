@@ -12,8 +12,7 @@ When the online meetings are recorded we have enabled the recordings to automati
 
 You can find the recordings here:
 
-- [Accelerate](XXX)
-- [Study Hall](XXX)
+- [Accelerate](https://adaacademy.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=b4067861-bf73-444d-9c49-ad050170788d)
 
 
 ## Instructor Private Rooms
