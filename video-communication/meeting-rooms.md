@@ -2,8 +2,8 @@
 
 For C15, Ada is using Zoom for online classes and meetings. We maintain a set of permanent links to "classroom" zoom meetings.
 
-- [Auditorium](http://auditorium.adadev.org)
-- [Accelerate](XXX)
+- [Accelerate](http://accelerate.adadev.org)
+- [Study Hall](http://studyhall.adadev.org)
 
 
 ## Recordings
@@ -12,8 +12,8 @@ When the online meetings are recorded we have enabled the recordings to automati
 
 You can find the recordings here:
 
-- [Auditorium](https://adaacademy.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=01af0bbe-b468-468b-9be9-acd600077431)
 - [Accelerate](XXX)
+- [Study Hall](XXX)
 
 
 ## Instructor Private Rooms
