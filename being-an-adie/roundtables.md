@@ -8,10 +8,10 @@ Roundtables meet at either 9:30am-10:30am or 10:50-11:50am.
 
 ## Logistics
 
-- You can view your roundtable assigment at the [roundtable assigment page](https://airtable.com/shriFMlEJEU7ZMvqL).
+- You can view your roundtable assigment at the [roundtable assigment page](coming soon) (coming soon!).
 - Roundtable instructors facilitating your group may differ day-to-day.
 - Roundtable groups will change the week of **May 31st**.
-- Roundtable checkout questions can be submitted using the [roundtable question form here](https://airtable.com/shrqKkB46wMsh3jst).
+- Roundtable checkout questions can be submitted using the [roundtable question form here](coming soon) (coming soon!).
 - Use the #roundtables Slack channel for follow up conversation and questions.
 - Roundtables with the "Activity" label in the calendar will focus on the associated activity from Learn.
 
