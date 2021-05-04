@@ -1,3 +1,3 @@
 # Student Handbook
 
-[Student Handbook](https://docs.google.com/document/d/1L-wc5kHnowPeuUErUEuPEXTuKBXpYp_EJBKyPnKK_W4/edit?usp=sharing)
+[Student Handbook](https://drive.google.com/file/d/1rLg_NGPs1jeyjaodsML3gTNVlp02p_ua/view)
