@@ -1,3 +1,4 @@
 # Student Handbook
 
-[Student Handbook](https://docs.google.com/document/d/1x9XgxIYD-tGAnb0_RiwabS0xOkVRlMWPUrgnSE3Y94I)
+[Seattle Student Handbook](https://drive.google.com/file/d/1aNZ4Y_OOIaDXRhkNxHfZWgIIxH8eLDPe/view?usp=sharing)
+[Digital Student Handbook](insert link)
