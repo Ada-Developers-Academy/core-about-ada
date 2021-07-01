@@ -3,7 +3,7 @@
 At the end of this program, students will be able to:
 
 - Learn how to Learn
-    - Create a model of independent self-learning study skills to facilitate learning new technologies and develop a growth mindset 
+    - Create a model of independent self-learning study skills to facilitate learning new technologies, and develop a growth mindset 
 - Write Code
     - Implement features in high-level code for medium-sized systems
 - Debug Code
