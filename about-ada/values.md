@@ -8,7 +8,7 @@ Ada's mission and values set expectations of how we treat ourselves and one othe
 
 3. We are an authentic community of learners with a growth mindset.
 
-4. We take accountability for our work as individuals, because we are part of a team that supports and can count on each other.
+4. We take accountability for our work as individuals because we are part of a team that supports and can count on each other.
 
 5. We take ownership of our work: we admit to our mistakes, take responsibility for creating solutions, and consider the impact on staff and students when we make decisions.
 
