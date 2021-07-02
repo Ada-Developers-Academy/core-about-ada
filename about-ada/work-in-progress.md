@@ -1,6 +1,6 @@
 # Work in Progress
 
-**Hello C15!**
+**Hello C16!**
 
 We, the Education Team at Ada, would like to give a personal letter to you, C15. We are hoping to share some feelings of excitement and curiosity.
 What do you all think about the program so far?
