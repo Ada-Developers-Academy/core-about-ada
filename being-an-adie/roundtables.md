@@ -4,14 +4,11 @@ Roundtables are a core component of the Ada curriculum.  Roundtables meet almost
 
 Roundtables are a group of 12 students, and the first roundtables will be grouped from your homeroom assignment.  Roundtables will change at the end of each unit (two times total).
 
-Roundtables meet at either 9:30am-10:30am or 10:50-11:50am.
+Please refer to your campus' Google Calendar to for your Roundtable schedule.
 
 ## Logistics
 
-- You can view your roundtable assigment at the [roundtable assigment page](https://airtable.com/shriFMlEJEU7ZMvqL).
-- Roundtable instructors facilitating your group may differ day-to-day.
-- Roundtable groups will change the weeks of **April 12th** and **May 17**.
-- Roundtable checkout questions can be submitted using the [roundtable question form here](https://airtable.com/shrqKkB46wMsh3jst).
+- Roundtable assignments will be given instructors facilitating your group may differ day-to-day.
 - Use the #roundtables Slack channel for follow up conversation and questions.
 - Roundtables with the "Activity" label in the calendar will focus on the associated activity from Learn.
 
@@ -26,7 +23,7 @@ Roundtables will generally include the following elements:
 
 ## Roundtable Attendance
 
-Roundtable attendance is required.  Please refer to the [Attendance](./attendance.md) documentation for the full details.  The attendance requirement are:
+Roundtable attendance is required. The attendance requirement are:
 
 - Cannot miss more than 15% of class.
 - There will be a [Learning Plan](./learning-plans.md) after 5 days of excused absence or 3 days unexcused to address any concerns.
