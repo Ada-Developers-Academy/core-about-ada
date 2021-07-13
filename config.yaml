@@ -2,7 +2,7 @@
 Standards:
   -
     Title: About Ada
-    Description: Welcome, Values, Student Handbook, Learning Goals, Work in Progress
+    Description: Welcome, Values, Student Handbook, Learning Goals
     UID: 09cd05ea-edae-4422-86ed-8d1acae53ace
     SuccessCriteria:
       - success criteria
