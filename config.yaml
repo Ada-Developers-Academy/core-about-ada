@@ -23,10 +23,6 @@ Standards:
         Type: Lesson
         UID: 0484f058-52e5-4e86-96ce-a1df24fc326c
         Path: /about-ada/learning-goals.md
-      -
-        Type: Lesson
-        UID: 2fb52db3-ae02-4f4f-bcd8-9ec6c4eab56c
-        Path: /about-ada/work-in-progress.md
   -
     Title: Being An Adie
     Description: A Day In The Life, Homerooms, Attendance, Roundtables, Assignments, One on Ones, Retros, Pods, Learning Plans, Student Services 1:1s
