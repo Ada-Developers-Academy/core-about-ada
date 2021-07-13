@@ -2,15 +2,27 @@
 Standards:
   -
     Title: About Ada
-    Description: What Is Ada?
-    UID: b57d7cb1a47cec65f7cb7475f61a1403
+    Description: Welcome, Values, Student Handbook, Learning Goals
+    UID: 09cd05ea-edae-4422-86ed-8d1acae53ace
     SuccessCriteria:
       - success criteria
     ContentFiles:
       -
         Type: Lesson
-        UID: 76e49180e1f0d170cf99c6bd9b1d10f3
-        Path: /about-ada/what-is-ada.md
+        UID: 9a40a54b-8e24-426a-ac09-b8fff50e2150
+        Path: /about-ada/welcome.md
+      -
+        Type: Lesson
+        UID: 264725aa-0ff0-4ae0-86b0-c8a8fe336804
+        Path: /about-ada/values.md
+      -
+        Type: Lesson
+        UID: adc4bb31-dd82-453d-941f-63957cc7df3f
+        Path: /about-ada/student-handbook.md
+      -
+        Type: Lesson
+        UID: 0484f058-52e5-4e86-96ce-a1df24fc326c
+        Path: /about-ada/learning-goals.md
   -
     Title: Tools And Communication
     Description: Online Communication Norms, Learn LMS, Slack, Google Calendar, Online Meeting Rooms
