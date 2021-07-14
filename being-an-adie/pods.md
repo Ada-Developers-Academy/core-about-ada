@@ -6,7 +6,6 @@ We believe that peer-to-peer support at Ada is just as important as support from
 
 ## Logistics
 
-- Pods will meet for the first time on **Tuesday March 23rd**.
 - Ada Pods Event: Once a month there will be a whole cohort event with Student Services.
 - Pods are self-organized.
 - Pods stay the same throughout your time at Ada.
