@@ -10,10 +10,20 @@ One of the systems of support at Ada is 1:1 meetings with a member of the Educat
 
 - You will be assigned 2 different 1:1 instructors over the course of the classroom period.
     - 1:1 pairings will change halfway through the cohort to accommodate varying learning styles.
-
 - You will begin meeting with your 1:1 instructor every other week after class begins.
-- You should sign-up for a 1:1 slot using Calendly. Instructor's Calendly links will be shared in the Newsletter and in Slack.
-- Meetings will be scheduled for 20 minute time blocks.
+- You should sign-up for a 1:1 slot using Calendly. 
+- [Claire’s Calendly link] (https://calendly.com/claire-ada)
+- [Audrey’s Calendly link] (https://calendly.com/audrey-at-ada)
+- [Trenisha's Calendly link] (https://calendly.com/trenishag)
+- [Ansel's Calendly link] (https://calendly.com/anselr)
+- [Jared’s Calendly link] (http://calendly.com/jared-at-ada)
+- Becca’s Calendly link] (https://calendly.com/becca-elenzil/1-1-with-becca)
+- Jasmine’s Calendly link] (https://calendly.com/jasmine-ada)
+- [Chris’s Calendly link] (https://calendly.com/chris-at-ada/30min?month=2021-07)
+- [Kaida’s Calendly link] (https://calendly.com/kaida)
+- [Jasmine’s Calendly link] (http://calendly.com/jasmine-ada)
+
+- Meetings will be scheduled for 30 minute time blocks.
     - Please let your instructor know if you think you need more time for the meeting.
 
 We look forward to connecting with you!
