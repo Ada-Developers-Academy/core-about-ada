@@ -9,7 +9,7 @@ Wake up, Breakfast, Check Calendar, Slack, Email, Learn.
 ![check all the things](../assets/day_life/check_all_the_things.png)  
 [(source)](http://hyperboleandahalf.blogspot.com/2010/06/this-is-why-ill-never-be-adult.html)
 
-## Seattle Campus: 9:30am - 10:30am or 10:50am - 11:50am PST
+## Seattle Campus: within core hours (9:30am - 3:00pm PST) Sepcific class times TBA
 ## Digital Campus: 9:30am - 11:00am PST
 
 Roundtables.
