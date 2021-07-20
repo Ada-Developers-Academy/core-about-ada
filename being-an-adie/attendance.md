@@ -51,7 +51,7 @@ Late arrivals are defined as being ten or more minutes late.
 
 If you know you will be absent or late for a lesson or meeting, you **must** do one thing:
 
-- Email absent@adadevelopersacademy.org and state your name, the day you will be absent, and a high-level reason why you will be missing class.
+- Email [absent@adadevelopersacademy.org](mailto:absent@adadevelopersacademy.org) and state your name, the day you will be absent, and a high-level reason why you will be missing class.
 
 These emails are read by instructors, so feel free to be human!
 
