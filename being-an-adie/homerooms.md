@@ -16,4 +16,4 @@ Homerooms will meet at their respective Zoom rooms, to be announced in Slack and
 
 ## Logistics
 
-Homerooms will generally meet twice a week, Mondays 1:00pm-1:30pm PST for Homeroom Check In and Fridays at 2:00pm-3:00pm PST for Retro.  Homeroom meetings will be facilitated by your homeroom instructor. These meetings are subject to change and any changes will be announced via Slack and posted on the Cohort 15 calendar.  Any additional homeroom meetings will also be posted on the Cohort 15 calendar.
+Homerooms will generally meet twice a week, Mondays 1:00pm-1:30pm PST for Homeroom Check In and Fridays at 2:00pm-3:00pm PST for Retro.  Homeroom meetings will be facilitated by your homeroom instructor. These meetings are subject to change and any changes will be announced via Slack and posted on the Cohort 16 calendar.  Any additional homeroom meetings will also be posted on the Cohort 16 Calendar.

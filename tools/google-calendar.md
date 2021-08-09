@@ -12,7 +12,7 @@ You can subscribe to a Google calendar, if you have a Google account, by clickin
 
 ![Subscribe link](../assets/calendar-subscribe.png)
 
-![Add calendar Cohort 15](../assets/add-calendar.png)
+![Add calendar Cohort 16](../assets/add-calendar.png)
 
 You can also sync the calendar with [Calendar on Mac](https://www.howtogeek.com/tips/how-to-add-your-gmail-calendar-to-the-calendar-on-mac-os-x/).
 

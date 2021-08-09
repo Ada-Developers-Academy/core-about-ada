@@ -1,6 +1,6 @@
 # Online Meeting Rooms
 
-For C15, Ada is using Zoom for online classes and meetings. We maintain a set of permanent links to "classroom" zoom meetings. These links will be available to you to join on August 30th
+For C16, Ada is using Zoom for online classes and meetings. We maintain a set of permanent links to "classroom" zoom meetings. These links will be available to you to join on August 30th
 
 Seattle Campus:
 
