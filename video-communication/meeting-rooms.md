@@ -4,7 +4,7 @@ For C15, Ada is using Zoom for online classes and meetings. We maintain a set of
 
 Seattle Campus:
 
-- [Seattle Auditorium](http://auditorium.adadev.org)
+- [Seattle Auditorium](http://aud-sea.adadev.org/)
 - [Pine](http://pine.adadev.org)
 - [Cedar](http://cedar.adadev.org)
 
