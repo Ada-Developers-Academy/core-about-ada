@@ -5,8 +5,8 @@ Homerooms are a group of 24 students in either "Cedar" or "Pine" (Seattle Campus
 
 ## Homeroom Instructors
 
-- Cedar: Jared, and Kaida with Jasmine
-- Pine: Becca and Chris
+- Cedar: Becca & Kaida
+- Pine: Chris & Jasmine
 - Maple: Trenisha and Claire
 - Spruce: Ansel and Audrey
 
