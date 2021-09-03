@@ -11,7 +11,7 @@ One of the systems of support at Ada is 1:1 meetings with a member of the Educat
 - In the Seattle campus, you will be assigned 2 different 1:1 instructors over the course of the classroom period.
     - 1:1 pairings will change halfway through the cohort.
 
-- In the Digital campus, your 1:1 instructor will remain the same.
+- In the Digital campus, your 1:1 instructor will remain the same throughout the classroom period.
 - You will begin meeting with your 1:1 instructor every other week after class begins.
 - You should sign-up for a 1:1 slot using Calendly. 
 - [Claire’s Calendly link](https://calendly.com/claire-ada)
