@@ -1,16 +1,40 @@
-# Retros
+# Monday Homeroom Check-ins and Friday Industry Prep Sessions
 
-## What is a Retrospective aka Retro?
-
-"Agile" is a set of methodologies and processes of software development. In Agile, a sprint is a phase of a project. A project is completed over many sprints. Agile teams conduct a _retrospective_ after each sprint. This is an opportunity to examine how the team is working together. It's a mediated conversation about the process by which the team is accomplishing its tasks and goals.
+"Agile" is a set of methodologies and processes of software development. In Agile, a sprint is a phase of a project. A project is completed over many sprints. Agile teams conduct daily _stand-ups_, and a _retrospective_ after each sprint. Both of them are opportunities to examine how the team is working together to complete a project or assigned work, and converse about the process by which the team is accomplishing its tasks and goals.
 
 _Side-note: We often use a different word like "iteration" instead, as "sprint" can imply moving at lightning speed all the time, which isn't a healthy long-term work environment._
 
 We will get more into depth about Agile software development over the curriculum.
 
-## Our Retros
+## Monday Homeroom Check-ins
 
-Retros can vary a lot in format. At Ada, we will do the following process:
+Monday Homeroom Check-ins at Ada combine the Agile practices of a "stand-up" and a "retrospective" in order to achieve learning objectives of:
+
+1. Modeling industry practices
+2. Giving and receiving feedback to make adjustments to the learning process
+3. Building a stronger learning community
+
+### Monday Homeroom Check-in Meeting Flow
+
+1. Spend 15 mins reflecting on the work you did for the weel, then write your answers on virtual "sticky notes" (link will be provided by instructors) for any or all of the 3 categories below:
+
+ - What did you accomplish/learn this past week? Did you meet your goals?
+ - What are your goals for this coming week? 
+ - What is blocking you from achieving your goals?
+
+
+1. Weekly Announcements, if we have any. (These should also be sent out to students on Slack shortly before Retro)
+1. Read the "Prime Directive" (see next section)
+1. Read Appreciations (from Airtable)
+1. Review the past week’s calendar
+1. ~5 minutes of silence for everyone to vote on “What worked well?” and “What can be improved?”
+1. Read everything in the “What went well?” column
+1. Spend time talking about the one item(s) that gets the most votes in the “What could be improved?” column.
+   - We can potentially do a 2nd if there's a tie
+   - The purpose of limiting the topics in this column is to ensure the most pressing improvements get the air time they need.
+1. Pep Talk (Initial one led by staff member, all others led by students)
+1. Preview of upcoming week
+
 
 ### Preparation During the Week
 
@@ -25,7 +49,6 @@ We will use the three categories below to classify our experiences and things th
 
 ### Retro Process
 
-**Pre-Meeting:** Before the meeting, students write sticky notes for any or all of the 3 categories before the meeting
 
 #### Meeting Flow
 
