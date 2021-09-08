@@ -5,7 +5,7 @@ At Ada we use Google calendar to schedule lessons, meetings and homework. Please
 * [Seattle Google Calendar](https://calendar.google.com/calendar/u/0?cid=Y19rZ3VxbDZ1MXVqcjB0Z3I4c2Q0b2I1Nmc4c0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
 * [Digital Google Calendar](https://calendar.google.com/calendar/embed?src=c_5f463b1m1a0umrfmfvja8dnao8%40group.calendar.google.com&ctz=America%2FLos_Angeles)
 
-Please find the TA calendars below.
+Please find the TA Calendars below.
 
 * [C16 Digital TA Google calendar](https://calendar.google.com/calendar/u/0?cid=Y19zYnYwbTZqNGZ0Mmt2aTN1dHBlbWpoMGVoZ0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
 * [C16 Seattle TA Google calendar](https://calendar.google.com/calendar/u/0?cid=Y18zZmIzdmF2cjhudjNmNDd2cWVyc2psdmwzb0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
