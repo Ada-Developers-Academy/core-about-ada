@@ -18,7 +18,7 @@ Monday Homeroom Check-ins at Ada combine the Agile practices of a "stand-up" and
 
 #### Reflections 
 
-Spend 15 mins reflecting on the work you did for the week, then write your answers on virtual "sticky notes" (link will be provided by instructors) for any or all of the 3 categories (in columns) below:
+Spend 10 mins reflecting on the work you did for the week, then write your answers on virtual "sticky notes" (link will be provided by instructors) for any or all of the 3 categories (in columns) below:
 
  - What did you accomplish/learn this past week? Did you meet your goals?
  - What are your goals for this coming week? 
