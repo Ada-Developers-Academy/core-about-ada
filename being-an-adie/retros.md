@@ -28,9 +28,9 @@ Spend 15 mins reflecting on the work you did for the week, then write your answe
 
 Student volunteers to share out what they wrote on their cards (going by category/column). This may be done in breakout rooms, or the classroom.
 
-#### Announcements/Solutions to Blockers/Calendar
+#### Announcements and Solutions to Blockers
 
-Announcements and preview pertaining to the upcoming week will be made to consider how students can individually or collectively help one another unblock blockers and find solutions to challenges experienced during the learning journey. This may be student or instructor curated, depending on the classroom. Some solutions can include:
+Announcements and a preview of the upcoming week will be made to consider how students can individually or collectively help one another unblock blockers and find solutions to challenges experienced during the learning journey. This may be student or instructor curated, depending on the classroom. Some solutions can include:
 
  - Student study groups
  - Office hours 
@@ -39,26 +39,16 @@ Announcements and preview pertaining to the upcoming week will be made to consid
 
 ## Friday Industry Prep
 
-Friday Industry Prep at Ada is meant to deepen knowedledge and competencies of social justice-related concepts, while achieving learning objectives of:
+Friday Industry Prep at Ada is a 1 hour session within core hours meant to deepen knowledge of how community engagement and critical reflection on students' own perceptions, biases, and assumptions inform their understanding of social (in)justice issues and their awareness of power, privilege, and positionality, while:
 
-1. Modeling industry practices
-2. Giving and receiving feedback 
-3. Building a stronger learning community
+1. Preparing students to be successful in industry (algorithms, interviewing prep, using tutorials, efficient Google searches, etc)
+2. Building a stronger learning community
 
+Topics and activities will include but are not limited to:
 
-
-
-
-## Facilitation
-
-One of the most common fears people have when first trying a retrospective is that the ritual will become a negative gripe session, interspersed with blame and counter blame. Those can be cathartic, but they won't contribute to learning nor help us improve our classroom experience. We will intercept and counteract those fears with the **Retrospective Prime Directive**:
-
-> Regardless of what we discover, we understand and truly believe that everyone did the best job they could, given what they knew at the time, their skills and abilities, the resources available, and the situation at hand.
-
-There will always be a facilitator during retro. At Ada, the facilitator will likely be an instructor. The facilitator's job during retro is to moderate the conversation. They will try to stop the group from getting into the weeds, and do their best to give everyone the same opportunity to be heard. Specifically, their job is to:
-
-1. Set the Stage and introduce process
-1. Gather Data -> read organized notes, provide context (if necessary),
-1. Generate Insights -> lead discussion, suggest actionable items (if appropriate)
-1. Decide What to Do -> Is recognition enough? Is there an action item someone gets?
-1. Close the Retrospective -> Respect people's time
+ - Pair programming
+ - Interview prep
+ - Advocating for yourself 
+ - Giving and receiving feedback
+ - Microaggressions and affirmations
+ - Dealing with uncertainty/fear moving into tech
