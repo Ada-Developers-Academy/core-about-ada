@@ -7,8 +7,8 @@ At Ada we use Google calendar to schedule lessons, meetings and homework. Please
 
 Please find the TA Calendars below.
 
-* [C16 Digital TA Google calendar](https://calendar.google.com/calendar/u/0?cid=Y19zYnYwbTZqNGZ0Mmt2aTN1dHBlbWpoMGVoZ0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
-* [C16 Seattle TA Google calendar](https://calendar.google.com/calendar/u/0?cid=Y18zZmIzdmF2cjhudjNmNDd2cWVyc2psdmwzb0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
+* [C16 Digital TA Google Calendar](https://calendar.google.com/calendar/u/0?cid=Y19zYnYwbTZqNGZ0Mmt2aTN1dHBlbWpoMGVoZ0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
+* [C16 Seattle TA Google Calendar](https://calendar.google.com/calendar/u/0?cid=Y18zZmIzdmF2cjhudjNmNDd2cWVyc2psdmwzb0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
 
 <iframe src="https://adaacademy.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=e1469d77-e54e-414b-96a9-ac1800578b41&autoplay=false&offerviewer=true&showtitle=true&showbrand=false&start=0&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
 
