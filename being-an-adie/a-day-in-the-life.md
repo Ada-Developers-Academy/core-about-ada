@@ -11,7 +11,8 @@ Wake up, Breakfast, Check Calendar, Slack, Email, Learn.
 
 ## Seattle Campus: within core hours (9:30am - 3:00pm PST) 
  - Specific class times TBA
-## Digital Campus: 9:30am - 11:00am PST
+## Atlanta Campus: (currently digital): within core hours (9:30am - 3:00pm PST) 
+## Digital Campus: within core hours (9:30am - 11:00am PST)
 
 Roundtables.
 
