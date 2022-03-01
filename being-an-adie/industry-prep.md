@@ -41,7 +41,7 @@ Announcements and a preview of the upcoming week will be made to consider how st
 
 Friday Industry Prep at Ada is a 2 hour session within core hours meant to:
 
-1. Preparw students to be successful in industry 
+1. Prepare students to be successful in industry 
 2. Building a stronger learning community
 
 Topics and activities will include but are not limited to:
