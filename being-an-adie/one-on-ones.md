@@ -1,31 +1,35 @@
 # One-on-one (1:1) Meetings
 
-One of the systems of support at Ada is 1:1 meetings with a member of the Education Team once every two weeks. 1:1 are an opportunity for an instructor and student to privately discuss how the classroom environment is going, and progress towards completion of the curriculum.
+[Guidelines for Instructional 1:1 meeting](https://docs.google.com/document/d/1TzTanpHFF2m2SKHeemYS9gvU0hIU0isvy5uVDh_mtX4/edit)
 
-1:1 meetings are a private, non-judgemental space. They are an opportunity to discuss anything from technical, to classroom, to career questions. They are also just an opportunity to get to know each other better.
+[Guidelines for Student Success Coach 1:1's] (https://docs.google.com/document/d/1jdh_dM2J2uoBHEbf9MaZdGjCqRFrPJ_xxLVuFSoPsNw/edit)
 
-1:1 instructors will provide code review on programming projects.  The 1:1 meetings will also be an space to discuss this feedback.
+
 
 ## Logistics
 
-- In the Seattle campus, you will be assigned 2 different 1:1 instructors over the course of the classroom period.
-    - 1:1 pairings will change halfway through the cohort.
+Instructional 1:1 Calendly links
 
-- In the Digital campus, your 1:1 instructor will remain the same throughout the classroom period.
-- You will begin meeting with your 1:1 instructor every other week after class begins.
-- You should sign-up for a 1:1 slot using Calendly. 
 - [Claire’s Calendly link](https://calendly.com/claire-ada)
 - [Audrey’s Calendly link](https://calendly.com/audrey-at-ada)
+- [Ashley's Calendly link](https://calendly.com/ashley-adadev/30min)
+- [Kelsey's Calendly link](https://calendly.com/kelsey-steven/1-1-meeting)
 - [Trenisha's Calendly link](https://calendly.com/trenishag)
 - [Ansel's Calendly link](https://calendly.com/anselr)
-- [Jared’s Calendly link](http://calendly.com/jared-at-ada)
-- [Becca’s Calendly link](https://calendly.com/becca-elenzil/1-1-with-becca)
+- [Goeun’s Calendly link](https://calendly.com/goeun)
+- [Auberon’s Calendly link](https://calendly.com/auberon-ada/1-1)
 - [Jasmine’s Calendly link](https://calendly.com/jasmine-ada)
-- [Chris’s Calendly link](https://calendly.com/chris-at-ada/30min?month=2021-07)
+- Cherise’s Calendly link (TBA)
 - [Kaida’s Calendly link](https://calendly.com/kaida)
 - [Jasmine’s Calendly link](http://calendly.com/jasmine-ada)
 
-- Meetings will be scheduled for 30 minute time blocks.
-    - Please let your instructor know if you think you need more time for the meeting.
+Student Success Coach Calendly links
+
+- Digital/Atlanta Campus: [Nat's Calendly link] (Nat’s Calendly link)
+- Seattle Campus: Sancha's Calendly link (TBA)
+
+
+Meetings will be scheduled for 30 minute time blocks.
+    - Please let your instructor or student success coach know if you think you need more time for the meeting.
 
 We look forward to connecting with you!
