@@ -34,8 +34,6 @@ The event details will contain important links, resources, details, etc. **Event
 
 Here are some events that you will see frequently on your calendar:
 
-- **Checklist**: Daily 8am-9am event. The event details contain everything we expect/hope that you accomplish before the following day. The checklist has two sections:
-    - Daily Tasks: This includes things like lessons and problem sets
-    - Ongoing Tasks: This includes things like projects
-- **Roundtables**: Roundtables meet daily in the mornings within core hours
-- **Group Activities**: Events that indicate a specific group of students meeting. We will communicate group activity assignments through Slack and Email, so check those.
+- **Checklist**: This denotes what is expected due as per your campus
+- **Roundtables**: Roundtables meet mostly daily in the mornings and afternoons within core hours
+- **Group Activities**: Events that indicate a specific group of students meeting. We will communicate group activity assignments through Slack, Email, and the Newsletter, so check those.
