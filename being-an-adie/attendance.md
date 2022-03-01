@@ -41,7 +41,7 @@ Again, unexcused absences really are for reasons like:
 - Forgetting to attend a lesson/meeting
 - Deciding not to attend a lesson/meeting and not communicating it
 
-So be sure to communicate any absences before 9:30 AM!
+So be sure to communicate any absences before 9:30 AM Pacific Time!
 
 ## How Late is Late?
 
@@ -61,4 +61,4 @@ We'll probably reply to you in case we're concerned you'll be missing a major le
 
 A lot of people have a lot of different circumstances that impact attendance.
 
-If you ever feel that you are falling behind or need extra attention, you are expected to keep instructors and Student Success Coach in the loop.
+If you ever feel that you are falling behind or need extra attention, you are expected to keep your instructors and/or your student success coach in the loop.
