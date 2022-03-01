@@ -39,16 +39,15 @@ Announcements and a preview of the upcoming week will be made to consider how st
 
 ## Friday Industry Prep
 
-Friday Industry Prep at Ada is a 1 hour session within core hours meant to deepen knowledge of how community engagement and critical reflection on students' own perceptions, biases, and assumptions inform their understanding of social (in)justice issues and their awareness of power, privilege, and positionality, while:
+Friday Industry Prep at Ada is a 2 hour session within core hours meant to:
 
-1. Preparing students to be successful in industry (algorithms, interviewing prep, using tutorials, efficient Google searches, etc)
+1. Preparw students to be successful in industry 
 2. Building a stronger learning community
 
 Topics and activities will include but are not limited to:
 
  - Pair programming
- - Interview prep
- - Advocating for yourself 
- - Giving and receiving feedback
- - Microaggressions and affirmations
- - Dealing with uncertainty/fear moving into tech
+ - Interview prep/Algorithm practice
+ - Using Tutorials
+ - Computer Science Fundamentals
+ - Efficient Goodle searches
