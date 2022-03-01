@@ -20,3 +20,10 @@ Assignments at Ada come in two different forms, projects and problem sets.
 
 - Logistics: Problem sets are found at the end of most topics in Learn.  Problem sets are designed to help you practice the content from the topic and are required.  
 - Submission: You will work through the problem set in Learn.  They are auto-evaluated and no additional submission is required.  Problem sets should be attempted on the day their topic is assigned. We will generally review them in the next morning's roundtable. Problem sets are expected to be completed **two days** after the end of the topic on the calendar and will be checked for completion by your 1:1 instructor at that time.
+
+## Problem Solving Exercises (PSE's)
+
+- Logistics: PSE's will be assigned 1 time a week during the curriculum.  
+- Submission: PSE's are submitted through Learn and will be evaluated by instructors. 
+- Feedback on PSE's will come in two forms:
+    - Your 1:1 instructor will do a code review on your submission and discuss their feedback at your next 1:1 meeting, or add comments to the code itself.
