@@ -61,4 +61,4 @@ We'll probably reply to you in case we're concerned you'll be missing a major le
 
 A lot of people have a lot of different circumstances that impact attendance.
 
-If you ever feel that you are falling behind or need extra attention, you are expected to keep instructors and/or the Program Manager, Student Services in the loop.
+If you ever feel that you are falling behind or need extra attention, you are expected to keep instructors and Student Success Coach in the loop.
