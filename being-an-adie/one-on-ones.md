@@ -21,7 +21,6 @@ Instructional 1:1 Calendly links
 - [Jasmine’s Calendly link](https://calendly.com/jasmine-ada)
 - Cherise’s Calendly link (TBA)
 - [Kaida’s Calendly link](https://calendly.com/kaida)
-- [Jasmine’s Calendly link](http://calendly.com/jasmine-ada)
 
 Student Success Coach Calendly links
 
