@@ -1,6 +1,6 @@
 # Assignments
 
-Assignments at Ada come in two different forms, projects and problem sets.
+Assignments at Ada come in a number of different forms, including projects, problem sets, and problem solving exercises.
 
 ## Projects
 
@@ -18,8 +18,8 @@ Assignments at Ada come in two different forms, projects and problem sets.
 
 ## Problem Sets
 
-- Logistics: Problem sets are found at the end of most topics in Learn.  Problem sets are designed to help you practice the content from the topic and are required.  
-- Submission: You will work through the problem set in Learn.  They are auto-evaluated and no additional submission is required.  Problem sets should be attempted on the day their topic is assigned. We will generally review them in the next morning's roundtable. Problem sets are expected to be completed **two days** after the end of the topic on the calendar and will be checked for completion by your 1:1 instructor at that time.
+- Logistics: There will be 1 PSE assigned per week throughout the majority of the curriculum. PSEs provide an opportunity for you to spend more time thinking through a problem, including clarifying specifications, determining test cases, planning your approach, and finally completing an implementation. Practicing these steps will help build a strong foundation for technical interviewing. 
+- Submission: PSEs are submitted through Learn. Like problem sets, the final implementation is auto-evaluated, while other portions will receive instructor feedback through Learn comments.
 
 ## Problem Solving Exercises (PSE's)
 
