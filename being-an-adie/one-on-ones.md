@@ -20,7 +20,7 @@ Instructional 1:1 Calendly links
 - [Auberon’s Calendly link](https://calendly.com/auberon-ada/1-1)
 - [Jasmine’s Calendly link](https://calendly.com/jasmine-ada)
 - [Jerica’s Calendly link](https://calendly.com/jerica-adadev/1-1)
-- Cherise’s Calendly link (TBA)
+- [Cherise’s Calendly link](https://calendly.com/cherise-holmes)
 - [Kaida’s Calendly link](https://calendly.com/kaida)
 
 Student Success Coach Calendly links
