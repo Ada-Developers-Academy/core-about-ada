@@ -1,6 +1,6 @@
 # Handbook and Homerooms
 
-Welcome! Please refer to your respective campus Handbook as your guidance while moving through our program.
+Welcome! Please refer to your respective campus Handbook and Welcome Guide as your guidance while moving through our program.
 
 ## Handbooks
 
