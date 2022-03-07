@@ -16,7 +16,7 @@ Welcome! Please refer to your respective campus Handbook and Welcome Guide as yo
 
 Homerooms are a group of 24-31 students in a “classroom-sized” setting within the cohort, for all students to feel seen and be able to collaborate. Homerooms remain the same throughout the cohort, and two homeroom instructors are assigned to teach each homeroom class. See more on Homerooms for
 [Digital Campus](https://docs.google.com/document/d/1QJPzGG4q1oo0i84XV4kkucDUssDLIby_FnPcPK-YFOk/edit) and
-[Seattle Campus](https://docs.google.com/document/d/1t5ORRcKl4EmIPp8vrXQ719xXMkW210IXyQHOR9aJ1NE/edit).
+[Seattle Campus](https://docs.google.com/document/d/1Uf3YC-enRzuKgvT2VBN4y8bc81x3Y8q6Q2vppBtrulg/edit).
 
 ## Homeroom meetings
 
