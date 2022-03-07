@@ -1,14 +1,14 @@
 # Google Calendar
 
-At Ada we use Google calendar to schedule lessons, meetings and homework. Please find the C16 Google calendars below.
+At Ada we use Google calendar to schedule lessons, meetings and homework. Please find the C17 Google calendars below.
 
 * [Seattle Google Calendar](https://calendar.google.com/calendar/u/0?cid=Y19jbTk4dnEzYW9iaDh2amdzdmpvZmJvanM0MEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
 * [Digital Google Calendar](https://calendar.google.com/calendar/u/0?cid=Y191YXE4anBrZGRubnExMnVvZjk3MzNqaHBuMEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
 
 Please find the TA Calendars below.
 
-* [C16 Digital TA Google Calendar](https://calendar.google.com/calendar/u/0?cid=Y19zYnYwbTZqNGZ0Mmt2aTN1dHBlbWpoMGVoZ0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
-* [C16 Seattle TA Google Calendar](https://calendar.google.com/calendar/u/0?cid=Y18zZmIzdmF2cjhudjNmNDd2cWVyc2psdmwzb0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
+* [C17 Digital TA Google Calendar](https://calendar.google.com/calendar/u/0?cid=Y19zYnYwbTZqNGZ0Mmt2aTN1dHBlbWpoMGVoZ0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
+* [C17 Seattle TA Google Calendar](https://calendar.google.com/calendar/u/0?cid=Y18zZmIzdmF2cjhudjNmNDd2cWVyc2psdmwzb0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
 
 <iframe src="https://adaacademy.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=e1469d77-e54e-414b-96a9-ac1800578b41&autoplay=false&offerviewer=true&showtitle=true&showbrand=false&start=0&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
 
