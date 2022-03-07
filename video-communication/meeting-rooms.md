@@ -19,12 +19,12 @@ When the online meetings are recorded we have enabled the recordings to automati
 
 Video recordings will be available on August 30th here:
 
-- [Seattle Auditorium](https://adaacademy.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22a0a2eb4e-9c9e-466b-af26-ad920156eefe%22)
-- [Digital Auditorium](https://adaacademy.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%2272184a77-db44-4ac9-8a42-ad920156a644%22)
-- [Pine](https://adaacademy.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22d672a4f2-c101-4a14-a216-ad920156e34e%22)
-- [Cedar](https://adaacademy.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22c7daaa8a-b678-40dc-a1ff-ad92015669db%22)
-- [Maple](https://adaacademy.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%2249d721b0-30d5-4b5b-b835-ad920156d62c%22)
-- [Spruce](https://adaacademy.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22d172e186-aaac-48b4-b8de-ad920157056e%22)
+- [Seattle Auditorium](https://adaacademy.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22fb931d92-6ce2-4fb6-9bab-ae51012a7de6%22&maxResults=150)
+- [Digital Auditorium](https://adaacademy.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22a1e0f067-0bd2-4394-a1cb-ae51012a8dc7%22&maxResults=250)
+- [Pine](https://adaacademy.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%225eb25a5f-84fe-405f-891d-ae4e016616d4%22)
+- [Cedar](https://adaacademy.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22c0f1c3b1-37bf-4a4e-9971-ae4e01671268%22)
+- [Maple](https://adaacademy.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%221c854989-a090-4d3c-9287-ae4e0164d351%22)
+- [Spruce](https://adaacademy.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22c4927add-31c2-4e0c-b4bd-ae4e01681355%22)
 
 ## Instructor Private Rooms
 
