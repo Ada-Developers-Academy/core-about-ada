@@ -5,13 +5,13 @@ For C15, Ada is using Zoom for online classes and meetings. We maintain a set of
 Seattle Campus:
 
 - [Seattle Auditorium](http://aud-sea.adadev.org/)
-- [Pine](http://pine.adadev.org)
-- [Cedar](http://cedar.adadev.org)
+- [Otters](Otters.adadev.org)
+- [Whales](Whales.adadev.org)
 
 Digital Campus:
 - [Digital Auditorium](http://digitalaud.adadev.org)
-- [Maple](http://maple.adadev.org)
-- [Spruce](http://spruce.adadev.org)
+- [Sharks](Sharks.adadev.org)
+- [SeaTurtles](SeaTurtles.adadev.org)
 
 ## Recordings
 
@@ -21,10 +21,10 @@ Video recordings will be available on August 30th here:
 
 - [Seattle Auditorium](https://adaacademy.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22a0a2eb4e-9c9e-466b-af26-ad920156eefe%22)
 - [Digital Auditorium](https://adaacademy.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%2272184a77-db44-4ac9-8a42-ad920156a644%22)
-- [Pine](https://adaacademy.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22d672a4f2-c101-4a14-a216-ad920156e34e%22)
-- [Cedar](https://adaacademy.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22c7daaa8a-b678-40dc-a1ff-ad92015669db%22)
-- [Maple](https://adaacademy.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%2249d721b0-30d5-4b5b-b835-ad920156d62c%22)
-- [Spruce](https://adaacademy.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22d172e186-aaac-48b4-b8de-ad920157056e%22)
+- [Otters](https://adaacademy.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=d672a4f2-c101-4a14-a216-ad920156e34e)
+- [Whales](https://adaacademy.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=c7daaa8a-b678-40dc-a1ff-ad92015669db)
+- [Sharks](https://adaacademy.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=49d721b0-30d5-4b5b-b835-ad920156d62c)
+- [SeaTurtles](https://adaacademy.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=d172e186-aaac-48b4-b8de-ad920157056e)
 
 ## Instructor Private Rooms
 
