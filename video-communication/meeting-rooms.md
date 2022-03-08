@@ -5,13 +5,13 @@ For C15, Ada is using Zoom for online classes and meetings. We maintain a set of
 Seattle Campus:
 
 - [Seattle Auditorium](http://aud-sea.adadev.org/)
-- [Otters](Otters.adadev.org)
-- [Whales](Whales.adadev.org)
+- [Otters](http://otters.adadev.org)
+- [Whales](http://whales.adadev.org)
 
 Digital Campus:
 - [Digital Auditorium](http://digitalaud.adadev.org)
-- [Sharks](Sharks.adadev.org)
-- [SeaTurtles](SeaTurtles.adadev.org)
+- [Sharks](http://sharks.adadev.org)
+- [SeaTurtles](http://seaturtles.adadev.org)
 
 ## Recordings
 
