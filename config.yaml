@@ -41,7 +41,7 @@ Standards:
         Path: /being-an-adie/learning-plans.md
   -
     Title: Tools
-    Description: Learn LMS, Slack, Google Calendar, Email
+    Description: Learn LMS, Slack, Google Calendar, Email, Classroom Activities
     UID: de602537-5504-4987-a8ce-b6282bfbea55
     SuccessCriteria:
       - success criteria
@@ -72,7 +72,7 @@ Standards:
         Path: /tools/activities-seattle.md
   -
     Title: Video Communication
-    Description: Zoom, Communication Norms, Meeting Rooms, Classroom Activities
+    Description: Zoom, Communication Norms, Meeting Rooms
     UID: 2acc992b-efdd-472d-9b60-29769018404c
     SuccessCriteria:
       - success criteria
