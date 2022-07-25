@@ -8,6 +8,10 @@ Standards:
       - success criteria
     ContentFiles:
       -
+        Type: Instructor
+        UID: 4a47a20f-c65f-4457-b07e-6a4e262d3a23
+        Path: /being-an-adie/sequence.instructor.md
+      -
         Type: Lesson
         UID: d8002988-a0c3-44a9-9457-fa2a2d44af1f
         Path: /being-an-adie/handbook-and-homerooms.md
