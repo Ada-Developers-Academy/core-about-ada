@@ -50,4 +50,4 @@ Topics and activities will include but are not limited to:
  - Interview prep/Algorithm practice
  - Using Tutorials
  - Computer Science Fundamentals
- - Efficient Goodle searches
+ - Efficient Google searches
