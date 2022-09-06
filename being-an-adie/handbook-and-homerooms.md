@@ -4,13 +4,7 @@ Welcome! Please refer to your respective campus Handbook and Welcome Guide as yo
 
 ## Handbooks
 
-[C17 Seattle Student Handbook](https://drive.google.com/file/d/1toLoFaTIMTtSj4f_YE9MWtRYZjKNM-Zw/view?usp=sharing)
-
-[C17 Seattle Student Welcome Guide](https://drive.google.com/file/d/1GK56ZwsfemhhGK4ucFjVQlSLJtIEypX-/view?usp=sharing)
-
-[C17 Digital Student Handbook](https://drive.google.com/file/d/1LytwwCEDSPcK3pQaRIFEUDmupHUIqW5v/view?usp=sharing)
-
-[C17 Digital Student Welcome Guide](https://drive.google.com/file/d/1hr-T3_EUVHMMIQtyRXCX4gAdvtyDsqiq/view?usp=sharing)
+[C18 Student Handbook](https://docs.google.com/document/d/1M7Tw6omuhEJ0jwYae1ScpmhrAMvnAeDm8ENlODU5j94/edit?usp=sharing)
 
 ## Homerooms
 
