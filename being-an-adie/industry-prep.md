@@ -1,4 +1,4 @@
-# Monday Homeroom Check-ins and Friday Industry Prep Sessions
+# Monday Homeroom Check-ins and Industry Prep Sessions
 
 "Agile" is a set of methodologies and processes of software development. In Agile, a sprint is a phase of a project. A project is completed over many sprints. Agile teams conduct daily _stand-ups_, and a _retrospective_ after each sprint. Both of them are opportunities to examine how the team is working together to complete a project or assigned work, and converse about the process by which the team is accomplishing its tasks and goals. Stand-ups and retrospective structure, design and timing vary between companies and teams in the industry.
 
