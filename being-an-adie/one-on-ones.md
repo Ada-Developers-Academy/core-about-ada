@@ -6,7 +6,7 @@
 
 ## Logistics
 
-Meetings will be scheduled for 30 minute time blocks.
+Meetings will be scheduled for 20 or 30 minute time blocks.
     - Please let your instructor or student success coach know if you think you need more time for the meeting.
     - Instructional and Calendly links will be shared in campus newsletters.
 
