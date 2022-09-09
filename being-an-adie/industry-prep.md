@@ -37,9 +37,9 @@ Announcements and a preview of the upcoming week will be made to consider how st
  - Tutoring
  - Other Resources and Ideas 
 
-## Friday Industry Prep
+## Industry Prep
 
-Friday Industry Prep at Ada is a 2 hour session within core hours meant to:
+Industry Prep at Ada is a 1. 5 or 2 hour session within core hours meant to:
 
 1. Prepare students to be successful in industry 
 2. Building a stronger learning community
