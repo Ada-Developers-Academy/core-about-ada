@@ -4,7 +4,7 @@ One of the responsibilities for instructors is to conduct one-on-one meetings wi
 
 ## Logistics
 
-With a cohort size of 52 students with 5 classroom instructors, the traditional cadence is such: Each student should meet with one instructor once every two weeks. Therefore, instructors should conduct 5-6 one-on-ones each week.
+With a cohort size of 24 students with 2 classroom instructors, the traditional cadence is such: Each student should meet with one instructor once every two weeks. Therefore, instructors should conduct 5-6 one-on-ones each week.
 
 The current method that instructors use to schedule one-on-ones is to:
 
