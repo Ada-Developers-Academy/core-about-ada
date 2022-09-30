@@ -4,7 +4,7 @@ Welcome! Please refer to your respective campus Handbook and Welcome Guide as yo
 
 ## Handbooks
 
-[C18 Student Handbook](https://docs.google.com/document/d/1M7Tw6omuhEJ0jwYae1ScpmhrAMvnAeDm8ENlODU5j94/edit?usp=sharing)
+[AC2 Student Handbook](https://docs.google.com/document/d/1on-_P7x2gVeym2y8C51SD1QXcBNGs4TYXgb5rVrdy6A/edit)
 
 ## Homerooms
 
