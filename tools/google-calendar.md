@@ -1,6 +1,6 @@
 # Google Calendar
 
-At Ada we use Google calendar to schedule lessons, meetings and homework. Please find the C17 Google calendars below.
+At Ada we use Google calendar to schedule lessons, meetings and homework. Please find the AC2 Google calendars below.
 
 * [Accelerate Google Calendar](https://calendar.google.com/calendar/u/0?cid=Y18ybTd2aGNlZGNxNHFqb3N0Zzczc29sM2djMEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
 
