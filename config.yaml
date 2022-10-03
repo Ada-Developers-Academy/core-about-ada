@@ -2,7 +2,7 @@
 Standards:
   -
     Title: About Ada
-    Description: Handbook and Homerooms, Attendance, Assignments, One on Ones, Monday Homeroom Check-ins, Pods, Learning Plans
+    Description: Handbook, Attendance, Assignments, One on Ones, Monday Homeroom Check-ins, Learning Plans
     UID: 03824c6e-f2ff-47a1-b07f-3d7e7a2be105
     SuccessCriteria:
       - success criteria
@@ -37,10 +37,6 @@ Standards:
         Path: /being-an-adie/industry-prep.md
       -
         Type: Lesson
-        UID: 76149df0-d79e-422c-908c-fb5f4a4673f6
-        Path: /being-an-adie/pods.md
-      -
-        Type: Lesson
         UID: 44bf54c2-af18-4943-9895-ecd8d11b9802
         Path: /being-an-adie/learning-plans.md
   -
@@ -65,15 +61,6 @@ Standards:
       -
         Type: Lesson
         UID: 31286b64-d977-4456-9f1b-302cefe24560
-        Path: /tools/email.md
-      -
-        Type: Lesson
-        UID: d53d2e25-015d-4409-b493-b61d2cd0d3e9
-        Path: /tools/activities-digital.md
-      -
-        Type: Lesson
-        UID: a85ce6b2-e404-49e2-9b3a-7a65aa73a078
-        Path: /tools/activities-seattle.md
   -
     Title: Video Communication
     Description: Zoom, Communication Norms, Meeting Rooms
