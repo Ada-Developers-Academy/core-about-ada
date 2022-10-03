@@ -2,13 +2,11 @@
 
 At Ada we use Google calendar to schedule lessons, meetings and homework. Please find the C17 Google calendars below.
 
-* [Seattle Google Calendar](https://calendar.google.com/calendar/u/0?cid=Y19jbTk4dnEzYW9iaDh2amdzdmpvZmJvanM0MEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
-* [Digital Google Calendar](https://calendar.google.com/calendar/u/0?cid=Y191YXE4anBrZGRubnExMnVvZjk3MzNqaHBuMEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
+* [Accelerate Google Calendar](https://calendar.google.com/calendar/u/0?cid=Y18ybTd2aGNlZGNxNHFqb3N0Zzczc29sM2djMEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
 
 Please find the TA Calendars below.
 
-* [C17 Digital TA Google Calendar](https://calendar.google.com/calendar/u/0?cid=Y19zYnYwbTZqNGZ0Mmt2aTN1dHBlbWpoMGVoZ0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
-* [C17 Seattle TA Google Calendar](https://calendar.google.com/calendar/u/0?cid=Y18zZmIzdmF2cjhudjNmNDd2cWVyc2psdmwzb0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
+* [AC2 TA Google Calendars](https://calendar.google.com/calendar/u/0?cid=Y18yYmF2MTN1c2plaGpvOGFrZmpubHY0MDVvOEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
 
 <iframe src="https://adaacademy.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=e1469d77-e54e-414b-96a9-ac1800578b41&autoplay=false&offerviewer=true&showtitle=true&showbrand=false&start=0&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
 
@@ -20,7 +18,7 @@ You can subscribe to a Google calendar, if you have a Google account, by clickin
 
 ![Subscribe link](../assets/calendar-subscribe.png)
 
-![Add calendar Cohort 15](../assets/add-calendar.png)
+![Add calendar Cohort 14](../assets/add-calendar.png)
 
 You can also sync the calendar with [Calendar on Mac](https://www.howtogeek.com/tips/how-to-add-your-gmail-calendar-to-the-calendar-on-mac-os-x/).
 
