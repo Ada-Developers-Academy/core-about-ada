@@ -20,10 +20,6 @@ Standards:
         UID: 04374b1a-23de-4412-9a33-d4c2af127b23
         Path: /being-an-adie/assignments.md
       -
-        Type: Instructor
-        UID: caea6a72-4b24-4c30-b835-8c30d5eb8a9a
-        Path: /being-an-adie/one-on-ones.instructor.md
-      -
         Type: Lesson
         UID: 0c938e3d-f824-4398-83be-0b95305dc3b3
         Path: /being-an-adie/one-on-ones.md
@@ -31,10 +27,6 @@ Standards:
         Type: Lesson
         UID: 2fafc181-be7c-4ebd-9aa4-07dce0af70fa
         Path: /being-an-adie/industry-prep.md
-      -
-        Type: Lesson
-        UID: 76149df0-d79e-422c-908c-fb5f4a4673f6
-        Path: /being-an-adie/pods.md
       -
         Type: Lesson
         UID: 44bf54c2-af18-4943-9895-ecd8d11b9802
@@ -62,14 +54,6 @@ Standards:
         Type: Lesson
         UID: 31286b64-d977-4456-9f1b-302cefe24560
         Path: /tools/email.md
-      -
-        Type: Lesson
-        UID: d53d2e25-015d-4409-b493-b61d2cd0d3e9
-        Path: /tools/activities-digital.md
-      -
-        Type: Lesson
-        UID: a85ce6b2-e404-49e2-9b3a-7a65aa73a078
-        Path: /tools/activities-seattle.md
   -
     Title: Video Communication
     Description: Zoom, Communication Norms, Meeting Rooms
