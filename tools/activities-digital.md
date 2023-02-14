@@ -1,2 +1,0 @@
-# Classroom Activities - Digital
-remove
