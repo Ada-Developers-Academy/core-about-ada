@@ -1,6 +1,3 @@
-# Attendance
-
-<iframe src="https://adaacademy.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=dd5c7345-3fbe-41b1-af8b-ac2b00eadc1d&autoplay=false&offerviewer=true&showtitle=true&showbrand=false&start=0&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
 
 ## Classroom Attendance
 
@@ -12,13 +9,13 @@ In order for Ada to bring you to internship, we have a couple of hard and fast r
 
 It’s not enough to just show up! You are expected to be an active collaborator and to work with your fellow students with a positive and accepting attitude.
 
+For in-person campuses, virtual attendance is not permitted without communicating with staff or setting up an accommodation. This ensures that we maintain the quality of education of the in-person learning experience. 
+
 ## Other Program Participation
 
 We list that part of the requirements of the Ada program are completing:
 
 - All required Career Services assignments
-- Provide your Resume/Bio when asked
-- Complete all assigned Mock Interviews
 - Complete all assigned Interviews
 
 ## What's an Excused vs. Unexcused Absence?
@@ -41,7 +38,7 @@ Again, unexcused absences really are for reasons like:
 - Forgetting to attend a lesson/meeting
 - Deciding not to attend a lesson/meeting and not communicating it
 
-So be sure to communicate any absences before 9:30 AM Pacific Time!
+So be sure to communicate any absences before 9:30 AM in whatever timezone you are in!
 
 ## How Late is Late?
 
