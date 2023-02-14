@@ -2,7 +2,7 @@
 Standards:
   -
     Title: About Ada
-    Description: Attendance, Assignments, One on Ones, Monday Homeroom Check-ins, Pods, Learning Plans
+    Description: Attendance, Assignments, One on Ones, Monday Homeroom Check-ins, Learning Plans
     UID: 03824c6e-f2ff-47a1-b07f-3d7e7a2be105
     SuccessCriteria:
       - success criteria
@@ -33,7 +33,7 @@ Standards:
         Path: /being-an-adie/learning-plans.md
   -
     Title: Tools
-    Description: Learn LMS, Slack, Google Calendar, Email, Classroom Activities
+    Description: Learn LMS, Slack, Google Calendar, Email
     UID: de602537-5504-4987-a8ce-b6282bfbea55
     SuccessCriteria:
       - success criteria
