@@ -2,7 +2,7 @@
 Standards:
   -
     Title: About Ada
-    Description: Handbook and Homerooms, Attendance, Assignments, One on Ones, Monday Homeroom Check-ins, Pods, Learning Plans
+    Description: Attendance, Assignments, One on Ones, Monday Homeroom Check-ins, Pods, Learning Plans
     UID: 03824c6e-f2ff-47a1-b07f-3d7e7a2be105
     SuccessCriteria:
       - success criteria
