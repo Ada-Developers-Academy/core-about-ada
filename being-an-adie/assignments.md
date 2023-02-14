@@ -1,6 +1,6 @@
 # Assignments
 
-Assignments at Ada come in a number of different forms, including projects, problem sets, and problem solving exercises.
+Assignments at Ada come in a number of different forms, including projects, problem sets, and problem solving exercises.You are welcome to revisit coursework and projects, including resubmitting your work. However, in order to maintain an accurate picture of your academic journey, you will not receive updated grades if you do so. These grades are for Ada internal use only - there’s no report card that we send home or share with internship managers.
 
 ## Projects
 
