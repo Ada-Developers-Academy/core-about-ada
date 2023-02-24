@@ -56,7 +56,7 @@ Standards:
         Path: /tools/email.md
   -
     Title: Video Communication
-    Description: Zoom, Communication Norms, Meeting Rooms
+    Description: Zoom, Communication Norms
     UID: 2acc992b-efdd-472d-9b60-29769018404c
     SuccessCriteria:
       - success criteria
