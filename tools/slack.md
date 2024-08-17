@@ -52,17 +52,19 @@ As with users you can use the `+` sign to join channels you aren't currently in.
 
 ## Customizing Slack
 
-You are welcome to customize slack by adding emoji.
+There are many settings in Slack that can be customized to your liking. Many settings can be accessed by clicking the `Settings...` option under the `Slack` menu item listed in the menu at the top of the desktop.
 
-![Customize Slack](../assets/customize-slack.png)
-
-Feel free to experiment and try settings in Slack.
+There are also additional settings that can be changed by other means.
 
 ### Adding Emojis
 
-You can also add your own custom emoji to Slack. You are encouraged to do so, this Slack organization belongs to your cohort, and you are encouraged to make it your own.
+You can add your own custom emoji to Slack. You are encouraged to do so, this Slack organization belongs to your cohort, and you are encouraged to make it your own. Use the `Add Emoji` button displayed in the emoji picker to upload your own emoji.
 
-![Customize Slack Emojis](../assets/customize-slack2.png)
+![Add Emoji button in the emoji picker](../assets/add-emoji.png)  
+*Fig. The emoji picker, where we can access the Add Emoji button*
+
+![User experience for uploading additional emoji](../assets/add-emoji2.png)  
+*Fig. Upload your own images to use as emoji!*
 
 ### Updating Your Profile
 
