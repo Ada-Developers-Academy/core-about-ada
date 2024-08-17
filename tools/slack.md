@@ -40,17 +40,15 @@ You can find other users in the Slack organization on the left-menu below the ch
 
 You can find a list of Channels on the left menu. Each channel is a group conversation with one or more users. Each channel typically exists for a specific topic.
 
-At ada we use a few channels for specific things:
-
-- _annoucements_ - Used for Ada official annoucements about events, or curriculum.
-- _csmemes_ - a channel to share funny memes or jokes about programming or technology.
-- _pre-ada-homework_ - Used for discussions on the Pre Ada Material
+You were automatically added to a number of channels when you joined the Slack for your cohort, such as `#announcements`, `#general`, and `#study-hall`. Check the description of each channel to see what it's for.
 
 ### Creating Channels
 
 You are welcome to create channels for discussions on a topic of interest. With discussions in Slack please remember and adhere to the Code of Conduct Expectations.
 
-Like with users you can use the `+` sign to join channels you aren't currently in.
+After adding a channel, it's usually a good idea to make a post in `#general` to let other folks know the channel exists. Otherwise, it's likely that no one will know about it!
+
+As with users you can use the `+` sign to join channels you aren't currently in. Before making your own channel, check to see if there is already a channel for the topic you are interested in.
 
 ## Customizing Slack
 
