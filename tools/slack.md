@@ -70,11 +70,11 @@ You can add your own custom emoji to Slack. You are encouraged to do so, this Sl
 
 You can view and update your profile in Slack including adding an avatar image.
 
-![view profile](../assets/view-profile.png)
+![Viewing a profile](../assets/view-profile.png)  
+*Fig. Your profile as shown in Slack*
 
-![Edit profile](../assets/edit-profile.png)
-
-![Editing a profile](../assets/edit-profile2.png)
+![Editing a profile](../assets/edit-profile.png)  
+*Fig. Editing your profile settings. Common elements to update include your display name, pronouns, and name pronunciation*
 
 #### User Avatar Image
 
@@ -85,19 +85,18 @@ Tools you can use to generate a cartoon avatar:
 - [Bitmoji](https://www.bitmoji.com/)
 - [Picrew](https://picrew.me/) (Site is in Japanese, but buttons are decently clear.)
 
-#### Status Icon
+#### Pronouns
+
+You can add your pronouns to your profile in Slack. This can help others know how to refer to you.
+
+Another way to indicate your pronouns is to include them in your Display Name or to use an emoji in your status.
 
 Slack lets you [set an emoji as part of your status](https://slack.com/help/articles/201864558-Set-your-Slack-status-and-availability).
 
-We've added some emoji to our Slack that you can use if you want to indicate your pronouns:
+We've added some emoji to our Slack that you can use if you want to indicate your pronouns using a badge. They appear under the Custom Emoji section in the emoji picker.
 
-- ![she/her](https://raw.githubusercontent.com/kaidamasaki/pronoun-badges/master/png/32x32/she-badge.png) `:she-her:`
-- ![they/them](https://raw.githubusercontent.com/kaidamasaki/pronoun-badges/master/png/32x32/they-badge.png) `:they-them:`
-- ![he/him](https://raw.githubusercontent.com/kaidamasaki/pronoun-badges/master/png/32x32/he-badge.png) `:he-him:`
-- ![they/she](https://raw.githubusercontent.com/kaidamasaki/pronoun-badges/master/png/32x32/they-she-badge.png) `:they-she:`
-- ![ze/hir](https://raw.githubusercontent.com/kaidamasaki/pronoun-badges/master/png/32x32/ze-badge.png) `:ze-hir:`
-- ![xe/xir](https://raw.githubusercontent.com/kaidamasaki/pronoun-badges/master/png/32x32/xe-badge.png) `:xe-xir:`
+#### Name Pronunciation
 
-If there are any other pronoun badges you would like let Kaida know, she's happy to make more!
+We recommend adding a name pronunciation to your profile. This can help others know how to pronounce your name.
 
-If you would like to try your hand at making your own the ../assets are on [github](https://github.com/kaidamasaki/pronoun-badges).
+You can provide a phonetic spelling of your name or a recording of you saying your name. Phonetic spelling can be a little tricky to decipher, so if you're comfortable, consider recording yourself saying your name.
