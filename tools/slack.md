@@ -40,41 +40,41 @@ You can find other users in the Slack organization on the left-menu below the ch
 
 You can find a list of Channels on the left menu. Each channel is a group conversation with one or more users. Each channel typically exists for a specific topic.
 
-At ada we use a few channels for specific things:
+You were automatically added to a number of channels when you joined the Slack for your cohort, such as `#announcements`, `#general`, and `#study-hall`. Check the description of each channel to see what it's for.
 
-- _annoucements_ - Used for Ada official annoucements about events, or curriculum.
-- _csmemes_ - a channel to share funny memes or jokes about programming or technology.
-- _pre-ada-homework_ - Used for discussions on the Pre Ada Material
+As with users you can use the `+` sign to join channels you aren't currently in. Before making your own channel, check to see if there is already a channel for the topic you are interested in.
 
 ### Creating Channels
 
 You are welcome to create channels for discussions on a topic of interest. With discussions in Slack please remember and adhere to the Code of Conduct Expectations.
 
-Like with users you can use the `+` sign to join channels you aren't currently in.
+After adding a channel, it's usually a good idea to make a post in `#general` to let other folks know the channel exists. Otherwise, it's likely that no one will know about it!
 
 ## Customizing Slack
 
-You are welcome to customize slack by adding emoji.
+There are many settings in Slack that can be customized to your liking. Many settings can be accessed by clicking the `Settings...` option under the `Slack` menu item listed in the menu at the top of the desktop.
 
-![Customize Slack](../assets/customize-slack.png)
-
-Feel free to experiment and try settings in Slack.
+There are also additional settings that can be changed by other means.
 
 ### Adding Emojis
 
-You can also add your own custom emoji to Slack. You are encouraged to do so, this Slack organization belongs to your cohort, and you are encouraged to make it your own.
+You can add your own custom emoji to Slack. You are encouraged to do so, this Slack organization belongs to your cohort, and you are encouraged to make it your own. Use the `Add Emoji` button displayed in the emoji picker to upload your own emoji.
 
-![Customize Slack Emojis](../assets/customize-slack2.png)
+![Add Emoji button in the emoji picker](../assets/add-emoji.png)  
+*Fig. The emoji picker, where we can access the Add Emoji button*
+
+![User experience for uploading additional emoji](../assets/add-emoji2.png)  
+*Fig. Upload your own images to use as emoji!*
 
 ### Updating Your Profile
 
 You can view and update your profile in Slack including adding an avatar image.
 
-![view profile](../assets/view-profile.png)
+![Viewing a profile](../assets/view-profile.png)  
+*Fig. Your profile as shown in Slack*
 
-![Edit profile](../assets/edit-profile.png)
-
-![Editing a profile](../assets/edit-profile2.png)
+![Editing a profile](../assets/edit-profile.png)  
+*Fig. Editing your profile settings. Common elements to update include your display name, pronouns, and name pronunciation*
 
 #### User Avatar Image
 
@@ -85,19 +85,18 @@ Tools you can use to generate a cartoon avatar:
 - [Bitmoji](https://www.bitmoji.com/)
 - [Picrew](https://picrew.me/) (Site is in Japanese, but buttons are decently clear.)
 
-#### Status Icon
+#### Pronouns
+
+You can add your pronouns to your profile in Slack. This can help others know how to refer to you.
+
+Another way to indicate your pronouns is to include them in your Display Name or to use an emoji in your status.
 
 Slack lets you [set an emoji as part of your status](https://slack.com/help/articles/201864558-Set-your-Slack-status-and-availability).
 
-We've added some emoji to our Slack that you can use if you want to indicate your pronouns:
+We've added some emoji to our Slack that you can use if you want to indicate your pronouns using a badge. They appear under the Custom Emoji section in the emoji picker.
 
-- ![she/her](https://raw.githubusercontent.com/kaidamasaki/pronoun-badges/master/png/32x32/she-badge.png) `:she-her:`
-- ![they/them](https://raw.githubusercontent.com/kaidamasaki/pronoun-badges/master/png/32x32/they-badge.png) `:they-them:`
-- ![he/him](https://raw.githubusercontent.com/kaidamasaki/pronoun-badges/master/png/32x32/he-badge.png) `:he-him:`
-- ![they/she](https://raw.githubusercontent.com/kaidamasaki/pronoun-badges/master/png/32x32/they-she-badge.png) `:they-she:`
-- ![ze/hir](https://raw.githubusercontent.com/kaidamasaki/pronoun-badges/master/png/32x32/ze-badge.png) `:ze-hir:`
-- ![xe/xir](https://raw.githubusercontent.com/kaidamasaki/pronoun-badges/master/png/32x32/xe-badge.png) `:xe-xir:`
+#### Name Pronunciation
 
-If there are any other pronoun badges you would like let Kaida know, she's happy to make more!
+We recommend adding a name pronunciation to your profile. This can help others know how to pronounce your name.
 
-If you would like to try your hand at making your own the ../assets are on [github](https://github.com/kaidamasaki/pronoun-badges).
+You can provide a phonetic spelling of your name or a recording of you saying your name. Phonetic spelling can be a little tricky to decipher, so if you're comfortable, consider recording yourself saying your name.
