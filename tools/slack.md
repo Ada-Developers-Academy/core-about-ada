@@ -42,13 +42,13 @@ You can find a list of Channels on the left menu. Each channel is a group conver
 
 You were automatically added to a number of channels when you joined the Slack for your cohort, such as `#announcements`, `#general`, and `#study-hall`. Check the description of each channel to see what it's for.
 
+As with users you can use the `+` sign to join channels you aren't currently in. Before making your own channel, check to see if there is already a channel for the topic you are interested in.
+
 ### Creating Channels
 
 You are welcome to create channels for discussions on a topic of interest. With discussions in Slack please remember and adhere to the Code of Conduct Expectations.
 
 After adding a channel, it's usually a good idea to make a post in `#general` to let other folks know the channel exists. Otherwise, it's likely that no one will know about it!
-
-As with users you can use the `+` sign to join channels you aren't currently in. Before making your own channel, check to see if there is already a channel for the topic you are interested in.
 
 ## Customizing Slack
 
